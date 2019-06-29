@@ -1,0 +1,3190 @@
+{
+  "current": {
+    "layout_body": "default",
+    "bg_body_boxed": "#f8f8f8",
+    "header_layout": "default",
+    "list_collections_layout": "collections_01_grid",
+    "category_layout": "default",
+    "product_layout": "default",
+    "blog_layout": "default",
+    "footer_layout": "default",
+    "password_layout": "default",
+    "enable_multilang": false,
+    "lange_1": "ENG",
+    "lange_2": "GER",
+    "display_sticky": true,
+    "display_sticky_mb": true,
+    "display_countdown": true,
+    "bg_sticky": "#ffffff",
+    "color_sticky": "#3c3c3c",
+    "color_variants": "#646464",
+    "social_facebook_link": "http:\/\/facebook.com\/shopify",
+    "social_twitter_link": "http:\/\/twitter.com\/shopify",
+    "social_vimeo_link": "",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_google_plus_link": "http:\/\/plus.google.com\/+shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify",
+    "social_youtube_link": "",
+    "bg_menu_mb": "#ffffff",
+    "color_menu_mb": "#232323",
+    "border_color_menu_mb": "#ebebeb",
+    "color_menu_mb_lv1": "#232323",
+    "color_menu_mb_lv1_hover": "#0688e2",
+    "bg_color_menu_mb_lv1_hover": "#f8f8f8",
+    "color_menu_mb_lv2": "#232323",
+    "color_menu_mb_lv2_hover": "#232323",
+    "color_menu_mb_lv3": "#3c3c3c",
+    "color_menu_mb_lv3_hover": "#0688e2",
+    "favicon": "shopify:\/\/shop_images\/logo10fav.png",
+    "body_font_size": "12",
+    "body_bg": "#ffffff",
+    "body_color": "#3c3c3c",
+    "link_color": "#0688e2",
+    "link_color_hover": "#232323",
+    "display_breadcrumb": true,
+    "breadcrumb_color": "#999999",
+    "breadcrumb_text_transform": "capitalize",
+    "page_title_font_size": "20",
+    "page_title_color": "#232323",
+    "page_title_text_align": "left",
+    "enable_sidebar_multiple_choice": true,
+    "product_name_text_transform": "none",
+    "product_name_text_align": "center",
+    "color_title_product": "#232323",
+    "color_title_product_hover": "#232323",
+    "color_vendor": "#232323",
+    "sale_text": "#ffffff",
+    "bg_sale": "#e95144",
+    "custom_label_text": "#ffffff",
+    "custom_label_bg": "#323232",
+    "bundle_label_text": "#ffffff",
+    "bundle_label_bg": "#232323",
+    "new_label_text": "#ffffff",
+    "new_label_bg": "#06bfe2",
+    "sold_out_text": "#ffffff",
+    "bg_sold_out": "#c1c1c1",
+    "color_price": "#232323",
+    "color_price_sale": "#e95144",
+    "color_compare_price": "#969696",
+    "color_quick_view": "#ffffff",
+    "bg_quick_view": "#000000",
+    "color_wishlist": "#232323",
+    "bg_wishlist": "#e5e5e5",
+    "enable_hover_image": true,
+    "use_color_swatch": true,
+    "option_color_swatch": "Color",
+    "color_swatch_style": "variant",
+    "btn_1_bg_color": "#232323",
+    "btn_1_border_color": "#232323",
+    "btn_1_text_color": "#ffffff",
+    "btn_2_bg_color": "#ffffff",
+    "btn_2_border_color": "#232323",
+    "btn_2_text_color": "#232323",
+    "btn_3_bg_color": "#e95144",
+    "btn_3_border_color": "#e95144",
+    "btn_3_text_color": "#ffffff",
+    "display_popup_newsletter": false,
+    "popup_newsletter_delay": "5",
+    "newsletter": "shopify:\/\/shop_images\/preparing-for-travel_f9f14419-1639-40f2-8134-da1d87efb181.jpg",
+    "popup_newsletter_title": "Join Our Mailing List",
+    "popup_newsletter_des": "Sign Up for exclusive updates,  <br>new arrivals & insider-only discounts",
+    "popup_newsletter_text_note": "No, thanks",
+    "newssletter_success_text": "You have successfully subscribed!",
+    "display_popup_social": true,
+    "enable_wishlist": true,
+    "image_swap": true,
+    "product_image_border": false,
+    "product_image_border_color": "#e6e6e6",
+    "product_image_resize": false,
+    "product_image_crop": false,
+    "product_image_height": "130",
+    "show_vendor": true,
+    "display_product_reviews": true,
+    "display_item_size": true,
+    "display_item_swatch": true,
+    "display_button": true,
+    "collection_infinite_scrolling": true,
+    "infinity_scroll_feature": true,
+    "enable_quick_view": true,
+    "qv_display_product_reviews": true,
+    "qv_show_sold_in": false,
+    "qv_item_prd": "3,5,6,7,8,10,12,15",
+    "qv_item_prds": "sold in last",
+    "qv_hours_prs": "10,15,16,17,18,20,25,35",
+    "qv_item_hours": "hours",
+    "display_quickview_vendor": true,
+    "quickview_text_vendor": "Brand:",
+    "display_quickview_product_sku": true,
+    "text_quickview_product_sku": "Product Code:",
+    "display_quickview_availability": true,
+    "quickview_text_availability": "Availability",
+    "display_quickview_product_type": false,
+    "quickview_text_product_type": "Product Type",
+    "quickview_text_countdown": "Limited-Time Offers, End in:",
+    "display_quickview_short_desc": true,
+    "display_quickview_subtotal": true,
+    "dpl_customers_view_qv": true,
+    "title_view_qv": "customers are viewing this product",
+    "number_view_qv": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+    "display_product_detail_share": true,
+    "display_size_chart": true,
+    "display_size_chart_at": "Size",
+    "size_guide_text": "Size Guide",
+    "custom_size_chart_header": "Size Chart",
+    "size_chart": "none",
+    "custom_size_chart": "",
+    "enable_ask_an_expert": true,
+    "ask_an_expert": "<i class=\"fa fa-question-circle\"><\/i><span class=\"text\">Have Questions?<\/span><a href=\"javascript:void(0)\" title=\"Ask An Expert\">Ask An Expert<\/a>",
+    "ask_an_expert_header": "Have Questions?",
+    "ask_an_expert_title": "Ask the Fashion Expert anything on Ella Boutique",
+    "ask_an_expert_des": "We will follow up with you via email within 24-36 hours",
+    "ask_an_expert_questions": "Please answer the following questionnaire",
+    "enable_ask_do_you_need": true,
+    "ask_do_you_need": "Do You Need:",
+    "ask_do_you_need_1": "Pricing",
+    "ask_do_you_need_2": "Answers",
+    "ask_do_you_need_3": "Both",
+    "ask_form_mess": "What can i help you with today ?",
+    "enable_how_would_you_like_me_to_contact_you": true,
+    "how_would_you_like_me_to_contact_you": "How would you like me to contact you?",
+    "contact_with_you_1": "Phone",
+    "contact_with_you_2": "Email",
+    "contact_with_you_3": "Both",
+    "ajax_popup_cart": "upsell",
+    "cart_popup_related_title": "YOU MAY ALSO LIKE",
+    "secure_text": "Secure Shopping Guarantee.",
+    "img_trust": "",
+    "show_shipping_calculator": true,
+    "shipping_calculator_heading": "Get shipping estimates | Holen Versand Schätzungen",
+    "shipping_calculator_default_country": "United States",
+    "register_text_desc": "Sign up for a free account at Relevant Medium.",
+    "login_text_desc": "Register with us for a faster checkout, <br> to track the status of your order and more.",
+    "search_1": "Your search for | Ihre Suche nach",
+    "search_2": "did not yield any results. | hat keine Ergebnisse hervorgebracht.",
+    "search_3": "Your search for | Ihre Suche nach",
+    "search_4": "revealed the following: | hat folgende Ergebnisse hervorgebracht:",
+    "enable_search_trending": true,
+    "trending_search_title": "trending",
+    "trending_search_item_1": "clothes",
+    "trending_search_item_2": "accessories",
+    "trending_search_item_3": "jeans",
+    "trending_search_item_4": "bags",
+    "trending_search_item_5": "shoes",
+    "trending_search_item_6": "perfume",
+    "enable_search_popular_products": true,
+    "popular_products_search_title": "Popular Products",
+    "popular_products_collection": "daniel-matsunaga",
+    "popular_products_limit": 3,
+    "enable_multiple_currencies": true,
+    "currency_1_unit": "PHP",
+    "currency_2_unit": "EUR",
+    "currency_3_unit": "GBP",
+    "currency_4_unit": "USD",
+    "font": "google_fonts",
+    "fonts_name": "Poppins",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#2d2d2d",
+    "checkout_button_color": "#000000",
+    "checkout_error_color": "#ff6d6d",
+    "enable_rtl_lang_1": true,
+    "enable_rtl_lang_2": true,
+    "mailing_list_form_action": "\/\/myshopify.us9.list-manage.com\/subscribe\/post?u=f03cabb421b3912425cda25cc&amp;id=2b084b0139",
+    "checkout_use_header_image": true,
+    "checkout_logo": "checkout_logo.png",
+    "checkout_use_body_background_image": false,
+    "checkout_use_sidebar_background_image": false,
+    "checkout_banner_background_color": "#ffffff",
+    "checkout_headline": "",
+    "checkout_call_to_action_color": "#000000",
+    "customer_layout": "theme",
+    "search_placeholder": "Suche | search",
+    "sections": {
+      "404-section": {
+        "type": "404-section",
+        "settings": {
+          "background": "",
+          "overlay_color": "#fff",
+          "overlay_opacity": "0.35",
+          "number_size": "200",
+          "subtitle": "Oops... the page you looking for clocked out!",
+          "subtitle_size": "16",
+          "text_color": "#232323",
+          "btn_bgc": "#232323",
+          "btn_txtc": "#fff",
+          "btn_bdc": "#232323",
+          "btn_bgc_h": "#fff",
+          "btn_txtc_h": "#232323",
+          "btn_bdc_h": "#232323",
+          "btn_link_1": "\/",
+          "btn_text_1": "Return to Store",
+          "btn_link_2": "shopify:\/\/collections\/all",
+          "btn_text_2": "Shop the Collections"
+        }
+      },
+      "portfolio-1-section": {
+        "type": "portfolio-1-section",
+        "blocks": {
+          "1558324452667": {
+            "type": "images",
+            "settings": {
+              "categories": "Daniel Matsunaga;blazero;glamos",
+              "thumbernail": "shopify:\/\/shop_images\/daniel_matsunaga.jpg",
+              "title": "Daniel Matsunaga",
+              "subtitle": "He is an actor, model, footballer and host.",
+              "link_to": "shopify:\/\/collections\/daniel-matsunaga",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558324515012": {
+            "type": "images",
+            "settings": {
+              "categories": "Milancelos;blazero; glamos",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558324568762": {
+            "type": "images",
+            "settings": {
+              "categories": "Suitó;Milancelos;blazero; glamos",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558324605932": {
+            "type": "images",
+            "settings": {
+              "categories": "Cosmopolis;Suitó;",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558324658499": {
+            "type": "images",
+            "settings": {
+              "categories": "Suitó;Milancelos;blazero;",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558324939452": {
+            "type": "images",
+            "settings": {
+              "categories": "Milancelos;blazero;",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558325577740": {
+            "type": "images",
+            "settings": {
+              "categories": "Milancelos;glamos",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558325626778": {
+            "type": "images",
+            "settings": {
+              "categories": "Cosmopolis;blazero;",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "1558324452667",
+          "1558324515012",
+          "1558324568762",
+          "1558324605932",
+          "1558324658499",
+          "1558324939452",
+          "1558325577740",
+          "1558325626778"
+        ],
+        "settings": {
+          "background": "shopify:\/\/shop_images\/woman-shopping-for-clothes.jpg",
+          "header_text_color": "#ffffff",
+          "page_description": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam praesent murna de tellus laoreet cosmopolis. Quisque hendrerit nibh an purus...",
+          "display_filter": true,
+          "filter_list": "Daniel Matsunaga;\nSuitó;\nMilancelos;\nBlazero;\nGlamos",
+          "text_color": "#fff",
+          "overlay_color": "#232323",
+          "overlay_opacity": "0.7"
+        }
+      },
+      "portfolio-2-section": {
+        "type": "portfolio-2-section",
+        "blocks": {
+          "1558322256428": {
+            "type": "images",
+            "settings": {
+              "categories": "Suitó;Milancelos;blazero;glamos",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558322304470": {
+            "type": "images",
+            "settings": {
+              "categories": "Milancelos;blazero;glamos",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558322736925": {
+            "type": "images",
+            "settings": {
+              "categories": "Cosmopolis",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558322835166": {
+            "type": "images",
+            "settings": {
+              "categories": "Milancelos;blazero",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558322991365": {
+            "type": "images",
+            "settings": {
+              "categories": "Milancelos;blazero",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558323108644": {
+            "type": "images",
+            "settings": {
+              "categories": "Milancelos;blazero",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558323239997": {
+            "type": "images",
+            "settings": {
+              "categories": "Suitó;Milancelos;blazero;glamos",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558323352604": {
+            "type": "images",
+            "settings": {
+              "categories": "Suitó;blazero",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558323495084": {
+            "type": "images",
+            "settings": {
+              "categories": "",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558323581180": {
+            "type": "images",
+            "settings": {
+              "categories": "",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558323611166": {
+            "type": "images",
+            "settings": {
+              "categories": "Milancelos",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          },
+          "1558323651755": {
+            "type": "images",
+            "settings": {
+              "categories": "",
+              "thumbernail": "",
+              "title": "Habitasse Molateas",
+              "subtitle": "Dosuere an morci lobortis scelerisque blandit cosmopolis.",
+              "link_to": "shopify:\/\/collections\/all",
+              "image_1": "",
+              "image_2": "",
+              "image_3": "",
+              "image_4": "",
+              "image_5": "",
+              "image_6": "",
+              "image_7": "",
+              "image_8": "",
+              "image_9": "",
+              "image_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "1558322256428",
+          "1558322304470",
+          "1558322736925",
+          "1558322835166",
+          "1558322991365",
+          "1558323108644",
+          "1558323239997",
+          "1558323352604",
+          "1558323495084",
+          "1558323581180",
+          "1558323611166",
+          "1558323651755"
+        ],
+        "settings": {
+          "display_filter": true,
+          "filter_list": "Cosmopolis;\nSuitó;\nMilancelos;\nBlazero;\nGlamos;",
+          "text_color": "#fff",
+          "overlay_color": "#232323",
+          "overlay_opacity": "0.7"
+        }
+      },
+      "contact-us-2-template": {
+        "type": "contact-us-2-template",
+        "settings": {
+          "contact_title": "Drop Us A Line",
+          "contact_text_desc": "We’re here to quickly provide you with the info and services you need & answer any question you may have",
+          "form_title": "Send us an email:",
+          "form_subtitle": "ASK US ANYTHING! WE'LL GET BACK TO YOU WITHIN 24-48 HOURS.",
+          "contact_your_name": "",
+          "contact_phone_number": "",
+          "contact_your_email": "",
+          "display_location": true,
+          "background_color": "#fafafa",
+          "top_title": "Chat with us:",
+          "top_content": "IF YOU HAVE AN ISSUE OR QUESTION THAT REQUIRES IMMEDIATE ASSISTANCE, YOU CAN CLICK BELOW TO CHAT LIVE WITH A CUSTOMER SERVICE REPRESENTATIVE. IF WE AREN'T AVAILABLE, DROP US AN EMAIL TO THE LEFT AND WE'LL RESPOND WITHIN 24-48 HOURS.",
+          "email_button": "Message us",
+          "email": "",
+          "email_button_bgc": "rgba(250,250,250,0)",
+          "email_button_txtc": "#232323",
+          "email_button_bdc": "#232323",
+          "email_button_bgc_h": "#232323",
+          "email_button_txtc_h": "#fff",
+          "email_button_bdc_h": "#232323",
+          "bot_title": "Chat with us:",
+          "bot_content": "<p>Call Toll-Free<\/p>\n<p>+1.900.000.6690<\/p>\n<p>Monday to Saturday: 9am - 10pm<\/p>\n<p>Sundays: 10am - 6pm<\/p>\n<p>Or you can reach us via email at support@halothemes.com <br> and expect a response within 24-48 hours.<\/p>"
+        }
+      },
+      "about-us-2-content": {
+        "type": "about-us-2-content",
+        "blocks": {
+          "1558321537764": {
+            "type": "top_content",
+            "settings": {
+              "display_banner": true,
+              "banner": "",
+              "alignment": "right",
+              "title_1": "Title",
+              "content_1": "Nullam aliquet vestibulum augue non varius. Cras cosmo congue an melitos. Duis tristique del ante le maliquam praesent murna de tellus laoreet cosmopolis. Quisque hendrerit nibh an purus...",
+              "title_2": "",
+              "content_2": "",
+              "title_3": "",
+              "content_3": "",
+              "title_4": "",
+              "content_4": "",
+              "title_5": "",
+              "content_5": ""
+            }
+          },
+          "1558321585461": {
+            "type": "top_content",
+            "settings": {
+              "display_banner": true,
+              "banner": "",
+              "alignment": "left",
+              "title_1": "Our Story",
+              "content_1": "lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas integer eget aliquet nibh",
+              "title_2": "Our Story",
+              "content_2": "Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim sit amet venenatis urna cursus eget nunc scelerisque viverra mauris",
+              "title_3": "Our Story",
+              "content_3": "Quis vel eros donec ac odio tempor orci dapibus ultrices in iaculis nunc sed augue lacus viverra vitae congue eu consequat ac felis donec et",
+              "title_4": "",
+              "content_4": "",
+              "title_5": "",
+              "content_5": ""
+            }
+          },
+          "1558321696901": {
+            "type": "top_content",
+            "settings": {
+              "display_banner": true,
+              "banner": "",
+              "alignment": "right",
+              "title_1": "Our Approach",
+              "content_1": "Dolor purus non enim praesent elementum facilisis leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus",
+              "title_2": "",
+              "content_2": "",
+              "title_3": "",
+              "content_3": "",
+              "title_4": "",
+              "content_4": "",
+              "title_5": "",
+              "content_5": ""
+            }
+          },
+          "1558321757469": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "",
+              "title": "Alisa",
+              "subtitle": "Managing Director",
+              "url": "shopify:\/\/collections\/all"
+            }
+          },
+          "1558321779765": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "",
+              "title": "Monica",
+              "subtitle": "Art Director",
+              "url": "shopify:\/\/collections\/all"
+            }
+          },
+          "1558321799252": {
+            "type": "bottom_content",
+            "settings": {
+              "image": "",
+              "title": "Tracy",
+              "subtitle": "Fashion Designer",
+              "url": "shopify:\/\/collections\/all"
+            }
+          }
+        },
+        "block_order": [
+          "1558321537764",
+          "1558321585461",
+          "1558321696901",
+          "1558321757469",
+          "1558321779765",
+          "1558321799252"
+        ],
+        "settings": {
+          "display_top_content": true,
+          "top_heading": "Behind the scene",
+          "top_subheading": "Phasellus lorem malesuada ligula pulvinar commodo maecenas suscipit auctom.",
+          "border_color": "#a6a6a6",
+          "top_content_bgc": "#fafafa",
+          "top_content_tt_size": "30",
+          "top_content_ttc": "#232323",
+          "top_content_txtc": "#3c3c3c",
+          "dots_color": "#9c9c9c",
+          "display_bottom_content": true,
+          "bot_heading": "Behind the scene",
+          "bot_subheading": "Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo lacus meleifend menean diverra loremous. Nullam sit amet orci rutrum risus laoreet semper vel non magna. Mauris vel sem a lectus vehicula ultricies. Etiam semper sollicitudin lectus indous scelerisque. Curabitur vel tristique lacus. Nam risus mauris, accumsan et eleifend vitae, dignissim at eros."
+        }
+      },
+      "page-header": {
+        "type": "page-header",
+        "settings": {
+          "background": "",
+          "text_color": "#ffffff",
+          "menu": "",
+          "menu_bar_background": "#ffffff",
+          "menu_bar_border": "#e6e6e6",
+          "menu_item_background": "#ffffff",
+          "menu_item_text_color": "#323232",
+          "menu_item_background_color_h": "#ffffff",
+          "menu_item_text_color_h": "#323232"
+        }
+      },
+      "about-us-1-content": {
+        "type": "about-us-1-content",
+        "settings": {
+          "left_heading": "About Robert Antonio",
+          "left_content": "<div class=\"description text-left\">\n<p class=\"p-header\">Robbie Antonio, the Founder and CEO of <a href=\"https:\/\/residentholdings.com\/\"><strong><em>Resident Holdings Group<\/em><\/strong><\/a>, is a real estate developer, tech entrepreneur, and art patron. Being one of the biggest stalwarts in the field of consumer branding, he has worked with various celebrities and influencers for worldwide projects representing twenty (20) companies in the fields of property, financial technology, educational technology, e-commerce, home accessories, beauty, fashion, jewelry, food, electronics and gaming.<\/p>\n<br>\n<h6 class=\"featured-h6-clss-black\">REAL ESTATE AND PROPERTY TECHNOLOGY<\/h6>\n<p class=\"p-header\">Currently, Antonio has (eighty-two) 82 million square feet worth of developed, in-progress, and managed properties under his belt. He is the Founder and President of <a href=\"http:\/\/antoniodevelopment.com\/index.html\"><em><strong>Antonio Development<\/strong><\/em><\/a> in New York where he had the opportunity to work with Pei Partners and the late I.M.Pei for Centurion—the <strong>first <\/strong>ground up residential condominium in the world. He also served as the Managing Director of <a href=\"https:\/\/www.century-properties.com\/\"><strong><em>Century Properties<\/em><\/strong><\/a> where he conceived and spearheaded US $2.1 billion of branded developments with the Trump Organization, Armani Casa, Versace Home, Philippe Starck, Missoni Home, and Paris Hilton.<\/p>\n<p class=\"p-header\">Antonio is also the Founder and CEO of <a href=\"https:\/\/revolutionprecrafted.com\/\"><strong><em>Revolution Precrafted<\/em><\/strong><\/a>, the first and only unicorn startup in the Philippines. It is a global supplier of traditional and prefabricated homes and structures with footprints in (thirty-one) 31 countries within Asia, Middle East, Europe, North and South America, and the Caribbean.<\/p>\n<p class=\"p-header\">Another company under the Resident Holdings Group is the <a href=\"http:\/\/rogueresorts.com\/\"><strong><em>Rogue Resorts<\/em><\/strong><\/a>, a travel tech company which offers luxurious condo villas, vacation resorts, and a curated membership app.<\/p>\n<p class=\"p-header\">In May 2018, he was named “Real Estate Personality of the Year” by PropertyGuru. In the same year, Antonio was also cited in the 2018 Mavericks Report by BuiltWorlds as one of the “25 Pioneers Who’ve Transformed the Built Industry.”<\/p>\n<p class=\"p-header\">As of this writing, Antonio has worked with (thirteen) 13 Pritzker Prize Architects and firms such as Zaha Hadid, Jean Nouvel, Philip Johnson Alan Ritchie Architects, Rem Koolhaas, Tadao Ando, and Christian de Portzamparc. He also collaborated with designers such as Ron Arad, Campana Brothers, Tom Dixon, and Marcel Wanders. He has partnered with over (one hundred and three) 103 notable brands in various fields such as fashion, Hollywood, luxury, design, and art. He has established the largest number of luxury-branded real estate products and properties across the globe by teaming up with athlete Amar'e Stoudemire, singer and designer Lenny Kravitz, style icon Daphne Guinness, and supermodel Helena Christensen with Camilla Stærk.<\/p>\n<br>\n<h6 class=\"featured-h6-clss-black\">TECHNOLOGY & BRANDING<\/h6>\n<p class=\"p-header\">Robbie Antonio’s experience in brand marketing reaches new heights as he launches his umbrella company: the <a href=\"https:\/\/residentholdings.com\/\"><strong><em>Resident Holdings<\/em><\/strong><\/a>. Under the Resident Holdings Group are fast-growing marketplaces and e-commerce companies. Under the new conglomerate company are <a href=\"https:\/\/renegadebrandingconcepts.com\/\"><strong><em>Renegade Branding Concepts<\/em><\/strong><\/a>, <a href=\"https:\/\/renaissancetouch.com\"><em><strong>Renaissance Touch<\/strong><\/em><\/a>, <a href=\"http:\/\/relevantmedium.com\/\"><strong><em>Relevant Medium<\/em><\/strong><\/a>, and <a href=\"http:\/\/reachmedium.com\/\"><em><strong>Reach Medium<\/strong><\/em><\/a>.<\/p>\n<p class=\"p-header\"><a href=\"https:\/\/renegadebrandingconcepts.com\"><em><strong>Renegade Branding Concepts<\/strong><\/em><\/a> is a one-stop shop for franchising and licensing concepts which offers an unparalleled list of possible retail and business opportunities in partnership with some of the biggest celebrities while <a href=\"https:\/\/renaissancetouch.com\"><strong><em>Renaissance Touch<\/em><\/strong><\/a> is a first-of-its-kind online celebrity\/influencer e-commerce site for furnishing and decorating interior spaces. For these new ventures, Antonio is currently working with popular celebrities and influencers such as the world boxing icon Manny Pacquiao and Brazilian-Japanese model Daniel Matsunaga to name a few. <a href=\"http:\/\/relevantmedium.com\/\"><em><strong>Relevant Medium<\/strong><\/em><\/a> is a platform that enables social media influencers to create and monetize content while <a href=\"http:\/\/reachmedium.com\/\"><em><strong>Reach Medium<\/strong><\/em><\/a> is an aggregated Key Opinion Leader (KOL) content curator, e-commerce, and traffic engine.<\/p>\n<p class=\"p-header\">In the coming months, Antonio is set to unveil his other celebrity-designed e-commerce companies including: <a href=\"http:\/\/rebelspecsdesign.com\/\"><strong><em>Rebel Specs Design<\/em><\/strong><\/a>—a celebrity-branded eyewear e-commerce company that features sleek, top-notch design with unbeatable prices, <a href=\"http:\/\/radicalcoutureconcepts.com\/\"><strong><em>Radical Couture Concepts<\/em><\/strong><\/a>—a company that features the latest celebrity backed fashion trends at affordable prices, <a href=\"http:\/\/regaljewelrycollection.com\/\"><strong><em>Regal Jewelry Selection<\/em><\/strong><\/a>—a curated e-commerce jewelry brand that sells gorgeous celebrity branded rings, necklaces, earrings, and bracelets, <a href=\"http:\/\/radiantbeautyselection.com\/\"><strong><em>Radiant Beauty Selection<\/em><\/strong><\/a>—an e-commerce company that provides beauty products with categories, <a href=\"http:\/\/replenishcorporation.com\/\"><strong><em>Replenish Corporation<\/em><\/strong><\/a>—the premiere celebrity-inspired nutrition and vitamin e-supplements company, <a href=\"http:\/\/rangehitech.com\"><strong><em>Range Hi Tech Corporation<\/em><\/strong><\/a>—a celebrity branded cell phone provider and marketplace app that helps merge function with fashion, and <a href=\"http:\/\/revoltcelebritygames.com\/\"><em><strong>Revolt Games<\/strong><\/em><\/a>—an interactive cross-platform gaming company that features celebrity branding and an immersive, best-in-breed gaming experience.<\/p>\n<p class=\"p-header\">On top of his achievements in the fields of real estate and e-commerce, Antonio is venturing towards e-services with upcoming companies such as <a href=\"http:\/\/reformlegalservices.com\/\"><em><strong>Reform Legal Services<\/strong><\/em><\/a>—a legal marketplace that serves the underserved, matching lawyers with SME clientele and consumers to remove latent frictions in the traditional legal industry, <a href=\"http:\/\/rejuvenateservicescorp.com\/\"><strong><em>Rejuvenate Service Corporation<\/em><\/strong><\/a>—a proprietary technology that matches local doctors with patients in need and features predictive analytics that help diagnosis, prognosis, and post-treatment follow-ups, <a href=\"http:\/\/reconcilecorporation.com\/\"><em><strong>Reconcile Corporation<\/strong><\/em><\/a>—a proprietary technology that filters by industry sector and accounting specialty, bridging trade needs while helping accounts and financial advisors grow their book of business, <a href=\"http:\/\/resident.academy\/\"><strong><em>RACE<\/em><\/strong><\/a>—a digital media and live entrepreneurship platform that helps broach traditional education with pragmatic, money-making skills, <a href=\"http:\/\/ripediscountcard.com\/\"><em><strong>RIPE Discount Card<\/strong><\/em><\/a>—a discount membership card that let everyday consumers buy more for cheaper and helps support local small businesses, and <a href=\"http:\/\/resurgentcorporation.com\/\"><strong><em>Resurgent Corporation<\/em><\/strong><\/a>—the premiere direct selling company in the market featuring (seven) 7 product packages and an interactive app that gamifies, intensifies, and ultimately commercializes the entire marketing experience.<\/p>\n<br>\n<h6 class=\"featured-h6-clss-black\">ART<\/h6>\n<p class=\"p-header\">Robbie Antonio is one of the youngest and most prolific collectors of international modern and post-war contemporary art. Because of his accomplishments as an art collector, he has received numerous awards from different organizations. In 2014, Artnet recognized Antonio as one of the “20 of the World’s Most Innovative Art Collectors,” while in 2015, he became part of Artnet’s “Top 200 Art Collectors Worldwide.” Artnet also recognized him as one of the “12 Young Art Collectors to Watch in 2016,” as well as one of the “The World’s Top 100 Art Collectors for 2016.”<\/p>\n<p class=\"p-header\">Antonio’s passion for art has also led him to collaborate with artists such as Damien Hirst, Takashi Murakami, Marina Abramovich, Maurizio Catellan, Julian Schnabel, Francesco Clemente, Zhang Huan, David La Chapelle, Marilyn Minter, and Julian Opie.<\/p>\n<br>\n<h6 class=\"featured-h6-clss-black\">AWARDS<\/h6>\n<ul class=\"p-header\">\n<li>“Real Estate Personality of the Year” by PropertyGuru<\/li>\n<li>“25 Pioneers Who’ve Transformed the Built Industry”<\/li>\n<li>Forbes “Philippines’ 50 Richest 2017” (youngest person)<\/li>\n<li>“The World’s Top 100 Art Collectors for 2016” by Artnet<\/li>\n<li>“Art Power List: Movers and Shakers in the Art World” by Harper’s Bazaar<\/li>\n<li>“12 Young Art Collectors to Watch in 2016” by Artnet<\/li>\n<li>“Top 200 Art Collectors Worldwide in 2015” by Artnet<\/li>\n<li>“Top 10 Young Art Collectors” by Larry’s List<\/li>\n<li>“20 of the World’s Most Innovative Art Collectors” by Artnet<\/li>\n<li>“50 of the World’s Most Exciting Collectors” by Modern Painters<\/li>\n<li>“The Collectors: 40 Under 40” By Apollo Magazine<\/li>\n<li>“25 Most Influential Personalities” by the Philippine Star<\/li>\n<li>“50 Under 50” by Town & Country<\/li>\n<li>“Real Estate All stars in New York” by Real Estate Weekly, New York<\/li>\n<li>“Top 40 Rising Stars of Real Estate Globally” by Institutional Investor Magazine at the age of 28<\/li>\n<\/ul>\n<br>\n<h6 class=\"featured-h6-clss-black\">PRESS MENTIONS<\/h6>\n<p class=\"p-header\">ABC8 News, ABC6 News, ANC, Apollo, Architectural Digest, Architectural Record, Art Net, Billionaire Magazine, Billionare.com, Bloomberg Asia, Bloomberg Philippines, Bloomberg, Business World, Business Standard, Casa Vogue, China Daily, Christie’s, Clad News, CNBC Asia, CNBC Singapore, CNN Philippines, CNN, Commercial Observer, Cyprus News, Deal Street Asia, Designboom, Dezeen, Domus, Dubai Forum, Dwell, Elle Décor, Entrepreneur Philippines, Esquire, Euro Weekly, Exberliner, Fashion Times, Fast Co Sign, Fast Company, Financial Times, Forbes Asia, Forbes Philippines, Forbes, Forbes.com, Fortune, Fox8, Glam.com, Harper’s Bazaar, Haute Living.com, Hollywood Reporter, Hongkong Tatler,How To Spend It, Huffington Post, Inquirer.net, Institutional Investor News, Intelligent Collector, L.A. Times, Le Monde, Man Report Residential, Miami Herald, Monocle, MSN, Myanmar Times, NY Times, Opportunities.com, Pagesix, Papermag, Prestige Singapore, Private Air Luxury Homes, Private Equity, Property Report, Real Estate Weekly, Reuters, Robb Report, Sea Asia, Smart Company, Sotheby’s, Surface Magazine, Tech Collective, Tech Insider, Techwire in Asia, Telegraph, The Art Gorgeous, The Art Newspaper, The Business Times, The New York Condo Blog, The New York Times, The Straits Times, The Wall Street Journal Asia, The Wall Street Journal, Today in New York, Town & Country, Tribune.net, Vanity Fair, Venture Canvas, Ventures Onsite, Vogue, Vogue.com, Vulcan, W Magazine, Wallpaper* Magazine, WWD & Yahoo News, Harper’s Bazaar Interiors, GQ Middle East, GQ India, Prestige Malaysia, Prestige Thailand, L’Officiel Brazil among others.<\/p>\n<\/div>",
+          "right_heading": "",
+          "right_content": ""
+        }
+      },
+      "about-us-1-slideshow": {
+        "type": "about-us-1-slideshow",
+        "settings": {
+          "autoplay": false,
+          "slideshow_speed": "5000",
+          "background_image": "shopify:\/\/shop_images\/Robbie_Antonio.png",
+          "text_color": "#fff",
+          "title_size": "40",
+          "button_bg_color": "rgba(0,0,0,0)",
+          "button_text_color": "#fff",
+          "button_bd_color": "#fff",
+          "button_bg_color_h": "rgba(0,0,0,0)",
+          "button_text_color_h": "#fff",
+          "button_bd_color_h": "#fff"
+        }
+      },
+      "navigation": {
+        "type": "navigation",
+        "blocks": {
+          "1542706946591": {
+            "type": "style_1",
+            "settings": {
+              "megamenu_items_1": "Trend",
+              "title_featured_product": "Featured Products",
+              "featured_product": "",
+              "banner_first_style_1": "",
+              "link_banner_first_style_1": "shopify:\/\/collections\/all"
+            }
+          },
+          "1542772636356": {
+            "type": "style_2",
+            "settings": {
+              "megamenu_items_2": "New In",
+              "banner_first_style_2": "",
+              "link_banner_first_style_2": "shopify:\/\/collections\/cosmopolis",
+              "banner_second_style_2": "",
+              "link_banner_second_style_2": "shopify:\/\/collections\/all",
+              "banner_third_style_2": "",
+              "link_banner_third_style_2": "shopify:\/\/collections\/suito"
+            }
+          },
+          "1542783537505": {
+            "type": "style_3",
+            "settings": {
+              "megamenu_items_3": "Collections"
+            }
+          },
+          "1542796773039": {
+            "type": "style_4",
+            "settings": {
+              "megamenu_items_4": "Demo",
+              "banner_first_style_4": "",
+              "link_banner_first_style_4": ""
+            }
+          }
+        },
+        "block_order": [
+          "1542706946591",
+          "1542772636356",
+          "1542783537505",
+          "1542796773039"
+        ],
+        "settings": {
+          "display_fixtop_menu": true,
+          "logo_fix": "shopify:\/\/shop_images\/RELEVANT_LOGO-Web_300_180x_ee0de10a-897e-4f96-8135-638501359719.png",
+          "alignment": "center",
+          "bg_menu": "#232323",
+          "bg_dropdown_menu": "#ffffff",
+          "color_menu_lv1": "#ffffff",
+          "hover_color_mnu_lv1": "#ffffff",
+          "font_size_mnu_lv1": "13px",
+          "color_menu_lv2": "#232323",
+          "hover_color_mnu_lv2": "#232323",
+          "font_size_mnu_lv2": "12px",
+          "color_menu_lv3": "#3c3c3c",
+          "hover_color_mnu_lv3": "#812529",
+          "font_size_mnu_lv3": "12px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "Collections",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#ffffff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "Demo",
+          "bg_lb_new": "#06bfe2",
+          "color_lb_new": "#ffffff",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "Pages",
+          "bg_lb_hot": "#ffbb49",
+          "color_lb_hot": "#ffffff",
+          "display_megamenu": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1541579674639": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Shop",
+              "footer_linklist": "main-menu"
+            }
+          },
+          "1541579687499": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Information",
+              "footer_linklist": "information"
+            }
+          },
+          "1541579706355": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "Customer Service",
+              "footer_linklist": "customer-services"
+            }
+          }
+        },
+        "block_order": [
+          "1541579674639",
+          "1541579687499",
+          "1541579706355"
+        ],
+        "settings": {
+          "bg_footer_img": "none",
+          "bg_footer_color": "#812529",
+          "bg_footer_position_x": "left",
+          "bg_footer_position_y": "top",
+          "bg_footer_repeat": "repeat",
+          "bg_footer_attachment": "scroll",
+          "bg-footer-img": "",
+          "footer_title_color": "#ffffff",
+          "footer_link_color": "#ffffff",
+          "footer_link_hover_color": "#ffffff",
+          "bg_footer_line_color": "#812529",
+          "footer_newsletter_enable": true,
+          "footer_newsletter_title": "Sign up for our Newsletter",
+          "footer_newsletter_des": "",
+          "bg_newsletter_color": "rgba(0,0,0,0)",
+          "newsletter_color": "#ffffff",
+          "newsletter_border_color": "#ffffff",
+          "bg_newsletter_button_color": "#000000",
+          "newsletter_button_color": "#ffffff",
+          "footer_social_enable": true,
+          "footer_social_title": "Stay Connected",
+          "fb_like_code_text": "<span>LIKE US <i>on <\/i> FACEBOOK<\/span>",
+          "fb_like_code": "<div id=\"fb-root\"><\/div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = \"\/\/connect.facebook.net\/en_US\/sdk.js#xfbml=1&version=v2.5\";\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));<\/script>\n<div class=\"fb-like\" data-href=\"https:\/\/www.facebook.com\/pages\/Halothemes-Premium-Magento-Themes\/469058089834105\" data-layout=\"button_count\" data-action=\"like\" data-show-faces=\"true\" data-share=\"true\"><\/div>",
+          "social_icon_color": "#812529",
+          "social_icon_bg_color": "#ffffff",
+          "bg_footer_bottom_color": "#710e13",
+          "footer_bottom_color": "#ffffff",
+          "footer_address_code": "© 2019 Relevant Medium. All Rights Reserved.",
+          "show_payment_icons": false,
+          "payment_display_visa": true,
+          "payment_display_visa_electron": false,
+          "payment_display_american_express": true,
+          "payment_display_master": true,
+          "payment_display_maestro": false,
+          "payment_display_solo": false,
+          "payment_display_paypal": true,
+          "payment_display_amazon_payments": false,
+          "payment_display_apple_pay": false,
+          "payment_display_bitcoin": false,
+          "payment_display_cirrus": true,
+          "payment_display_dankort": false,
+          "payment_display_diners_club": false,
+          "payment_display_discover": true,
+          "payment_display_dogecoin": false,
+          "payment_display_dwolla": false,
+          "payment_display_forbrugsforeningen": false,
+          "payment_display_interac": false,
+          "payment_display_jcb": false,
+          "payment_display_litecoin": true,
+          "payment_display_stripe": false,
+          "payment_display_sage": false,
+          "payment_display_wallet": false,
+          "icon_visa": "",
+          "icon_visa_electron": "",
+          "icon_master": "",
+          "icon_american_express": "",
+          "icon_maestro": "",
+          "icon_solo": "",
+          "icon_paypal": "",
+          "icon_amazon_payments": "",
+          "icon_apple_pay": "",
+          "icon_bitcoin": "",
+          "icon_cirrus": "",
+          "icon_dankort": "",
+          "icon_diners_club": "",
+          "icon_discover": "",
+          "icon_dogecoin": "",
+          "icon_dwolla": "",
+          "icon_forbrugsforeningen": "",
+          "icon_interac": "",
+          "icon_jcb": "",
+          "icon_litecoin": "",
+          "icon_stripe": "",
+          "icon_sage": "",
+          "icon_wallet": ""
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "display_recently_viewed_products": true,
+          "recently_viewed_products_title": "Recently Viewed Products",
+          "number_of_recently_viewed_products": "10"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_post": "3",
+          "blog_text_align": "left",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "blog-template-fullWidth": {
+        "type": "blog-template-fullWidth",
+        "settings": {
+          "blog_post": "5",
+          "blog_text_align": "left",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "blog-template-right-sidebar": {
+        "type": "blog-template-right-sidebar",
+        "settings": {
+          "blog_post": "5",
+          "blog_text_align": "left",
+          "blog_show_author": true,
+          "blog_show_date": true
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "display_google_map": true,
+          "google_map_code": "<iframe src=\"https:\/\/maps.google.com\/maps?f=q&source=s_q&hl=vi&geocode=&q=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1&aq=&sll=37.0625,-95.677068&sspn=41.903538,86.572266&ie=UTF8&hq=&hnear=4+Nguy%E1%BB%85n+%C4%90%C3%ACnh+Chi%E1%BB%83u,+%C4%90a+Kao,+Qu%E1%BA%ADn+1,+H%E1%BB%93+Ch%C3%AD+Minh,+Vi%E1%BB%87t+Nam&t=m&ll=10.797518,106.700377&spn=0.014754,0.071197&z=15&iwloc=A&output=embed\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" width=\"100%\" height=\"350\"><\/iframe>",
+          "contact_title": "DROP US A LINE | Schreiben Sie uns",
+          "contact_text_desc": "Have a question or comment? Use the form below to send us a message or contact us by mail at:",
+          "contact_your_name": "",
+          "contact_phone_number": "",
+          "contact_your_email": "",
+          "display_location": true,
+          "location_code": "<h4>Store Information<\/h4>\n<p>We'd love to hear from you - please use the form to send us your message or ideas. Or simply pop in for a cup of fresh tea and a cookie:<\/p>\n<p class=\"addr\">4th Floor Pacific Star Building, Makati Avenue cor Sen. Gil J. Puyat Ave, Makati 1226, Metro Manila Philippines\n<\/p>\n\n<p class=\"addr\">Email: <a href=\"mailto:support@relevantmedium.com\">support@relevantmedium.com<\/a><br>Toll-free: <strong>1-888-699-8900<\/strong><\/p><div class=\"open-hours\">\n<strong>Opening Hours:<\/strong>\n<br>Monday to Saturday: 9am - 10pm\n<br>Sundays: 10am - 6pm\n<p><\/p>\n<\/div>"
+        }
+      },
+      "lookbook": {
+        "type": "lookbook",
+        "blocks": {
+          "1489975455753": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "",
+              "alignment": "left",
+              "heading": "",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#ffffff",
+              "lb_product_1": "",
+              "top_position_1": "41",
+              "left_position_1": "55",
+              "dots_color_1": "#ffffff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#323232",
+              "lb_product_2": "",
+              "top_position_2": "10",
+              "left_position_2": "10",
+              "dots_color_2": "#ffffff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#ffffff",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#ffffff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#ffffff"
+            }
+          },
+          "1489975477125": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "",
+              "alignment": "left",
+              "heading": "",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#ffffff",
+              "lb_product_1": "",
+              "top_position_1": "34",
+              "left_position_1": "19",
+              "dots_color_1": "#ffffff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#323232",
+              "lb_product_2": "",
+              "top_position_2": "81",
+              "left_position_2": "48",
+              "dots_color_2": "#ffffff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#323232",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#ffffff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#ffffff"
+            }
+          },
+          "1532404848065": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "",
+              "alignment": "left",
+              "heading": "",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#ffffff",
+              "lb_product_1": "",
+              "top_position_1": "28",
+              "left_position_1": "33.5",
+              "dots_color_1": "#ffffff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#323232",
+              "lb_product_2": "",
+              "top_position_2": "84",
+              "left_position_2": "40",
+              "dots_color_2": "#ffffff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#323232",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#ffffff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "1489975455753",
+          "1489975477125",
+          "1532404848065"
+        ],
+        "settings": {
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "button": "Shop LookBook",
+          "link": "shopify:\/\/collections\/all",
+          "autoplay": false,
+          "speed": "5000",
+          "transition": "true",
+          "arrow_color": "#727272",
+          "arrow_border_color": "#d3d3d3",
+          "arrow_bg_color": "#ffffff",
+          "position_slick_arrow": "-35px"
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes": true
+        }
+      },
+      "faq-page": {
+        "type": "faq-page",
+        "blocks": {
+          "1507878888245": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Will your template be fully compatible with Shopify?",
+              "answer_faqs": "Yes it is."
+            }
+          },
+          "1507879452149": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "I cannot upload the theme to my Shopify store \/ Shopify alerts that the file is too big to upload, what is the problem?",
+              "answer_faqs": "<p>Please make sure that you follow below steps:<\/p>\n\n<p>1\/ Download the package from themeforest.net (the file is in zip format)\n<br>\n<br>\n2\/ Extract the file you've just downloaded.\n<br>\n<br>\n3\/ Find this file: ella-3.0.0-sections-ready.zip in the folder Ella Sections Ready 3.0.0, then you just need to upload ella-3.0.0-sections-ready.zip file to your Shopify store.\n<\/p>"
+            }
+          },
+          "1507879511326": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "What I have to do when I need your support?",
+              "answer_faqs": "<p>To save your time and reach our support quickly, please follow below steps:\n<\/p><p>1\/ Create a staff account for us (with Themes permission and Settings permission) <a href=\"http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members\" target=\"_blank\" style=\"color: #e66f65;\" rel=\"noopener noreferrer\">http:\/\/docs.shopify.com\/manual\/settings\/account\/staff-members<\/a><\/p>\n<p>2\/ Capture screenshot or video for the issue you get.<\/p>\n<p>3\/ Specify which template and version you are using.<\/p>\n<p>4\/ Describe clearly how to reproduce the issue.<\/p>\n<p>5\/ Send all information (staff account, screenshot, video, template name and version, description of the issues, link) to <a href=\"mailto:support@halothemes.com\" target=\"_blank\" style=\"color: #e66f65;\" rel=\"noopener noreferrer\">support@halothemes.com<\/a><\/p>\n<p><\/p>"
+            }
+          },
+          "1507879518615": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Would assistance be available to upload the template if needed?",
+              "answer_faqs": "Yes, we will assist you to install the template if needed"
+            }
+          },
+          "1507879528740": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Do you guys offer customisation services for your themes?",
+              "answer_faqs": "Yes, we do. Please send your customisation requests to support@halothemes.com, we will give you our quote. Thank you."
+            }
+          },
+          "1507879543697": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Can I turn on\/off Lazy Loading Image \/ Item Animation \/ Fade Up on the page?",
+              "answer_faqs": "Yes. You can turn on\/off the animation in the Setting page."
+            }
+          },
+          "1507879557094": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Can I turn on\/off some blocks on the page?",
+              "answer_faqs": "Yes. You can turn on\/off almost any blocks on the page (featured products, slideshow, banners, related products, recent products,...)."
+            }
+          },
+          "1507879567640": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "I want to have the dropdown cart displayed automatically every time clients hover over it (instead of clicking on it). Is it possible?",
+              "answer_faqs": "Yes, we have a setting for you to switch between these two options: Display on Hover and Display on Click."
+            }
+          },
+          "1507879577808": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "What is included in the theme package?",
+              "answer_faqs": "The theme package includes theme source, Photoshop design files, sample data and manual guide."
+            }
+          },
+          "1507879582861": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "I notice that the images used in the theme are all portrait. Will that be a problem if I use square images for our products? How will they be displayed in the theme?",
+              "answer_faqs": "That is not a problem. You just need to modify the width\/height ratio in theme settings."
+            }
+          },
+          "1507879597073": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Does the theme support image resizing and cropping?",
+              "answer_faqs": "Yes. Normally, the theme will resize images to a default size (based on your width\/height ratio setting). We also have Crop setting if you don’t want to scale the image."
+            }
+          },
+          "1507879608326": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Can I add borders around our product images?",
+              "answer_faqs": "Yes, you can. You can also set image border colours."
+            }
+          },
+          "1507879613494": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Can I have multi level menu?",
+              "answer_faqs": "Yes, you can. Just simply follow the instructions in our Manual Guide, you will be able to easily create a multi-level menu."
+            }
+          },
+          "1507879626512": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Do you guys provide customer support during weekends \/ holidays?",
+              "answer_faqs": "Normally we don't provide support during weekends, except for urgent cases. In these cases, you only need to mark “Urgent” in your email, we will get back to you ASAP."
+            }
+          },
+          "1507879632829": {
+            "type": "text",
+            "settings": {
+              "question_faqs": "Does the theme support Variant Image?",
+              "answer_faqs": "Yes, it does. Please check it out here to see how it works: <a href=\"https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684\">https:\/\/sneake-demo.myshopify.com\/products\/sample-proin-de-corper-nulla-dan-melementum-1?variant=10214763888684<\/a>"
+            }
+          }
+        },
+        "block_order": [
+          "1507878888245",
+          "1507879452149",
+          "1507879511326",
+          "1507879518615",
+          "1507879528740",
+          "1507879543697",
+          "1507879557094",
+          "1507879567640",
+          "1507879577808",
+          "1507879582861",
+          "1507879597073",
+          "1507879608326",
+          "1507879613494",
+          "1507879626512",
+          "1507879632829"
+        ],
+        "settings": {
+          "des_faqs": "Below FAQ are some common concerns of our clients before purchasing the theme, if you have other questions, please just send it to <a href=\"mailto:support@halothemes.com\" target=\"_blank\">support@halothemes.com<\/a>",
+          "contact_text": "Unable to find satisfactory answers ?",
+          "contact_link_text": "Contact Support",
+          "contact_link": "https:\/\/www.halothemes.com\/",
+          "icon_faqs": "Question",
+          "bg_icon_qs": "#ef6454",
+          "color_icon_qs": "#ffffff",
+          "bg_question": "#fafafa",
+          "color_question": "#323232",
+          "font_size_qs": "12",
+          "bg_question_acitve": "#232323",
+          "color_question_acitve": "#ffffff",
+          "icon_answer": "Answer",
+          "bg_icon_answer": "#69c69c",
+          "color_icon_answer": "#ffffff",
+          "color_question_answer": "#3c3c3c",
+          "font_size_answer": "12",
+          "color_question_link": "#0688e2"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "1543214716857": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          },
+          "1543214733702": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          },
+          "1543214800120": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          },
+          "1543214818887": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          },
+          "1543214834303": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          },
+          "1543214844672": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          },
+          "1543214860592": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          },
+          "1543214872428": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          },
+          "1543214881800": {
+            "type": "collection",
+            "settings": {
+              "image": "",
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "1543214716857",
+          "1543214733702",
+          "1543214800120",
+          "1543214818887",
+          "1543214834303",
+          "1543214844672",
+          "1543214860592",
+          "1543214872428",
+          "1543214881800"
+        ],
+        "settings": {
+          "list_collection_results_per_row": "3",
+          "list_collection_title_size": "20",
+          "style_categories": "style_little"
+        }
+      },
+      "sidebar-section": {
+        "type": "sidebar-section",
+        "blocks": {
+          "1543314984589": {
+            "type": "menu",
+            "settings": {
+              "enable": true,
+              "title": "Categories",
+              "style_categories": "style_little",
+              "link_list": "influencer"
+            }
+          },
+          "1543315002517": {
+            "type": "product",
+            "settings": {
+              "enable": true,
+              "title": "Featured Products",
+              "collection": "",
+              "limit": "3"
+            }
+          },
+          "1543315033286": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "",
+              "link": "shopify:\/\/collections\/cosmopolis"
+            }
+          },
+          "1543315049567": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "",
+              "link": "shopify:\/\/collections\/blaz-ro"
+            }
+          },
+          "1543315088462": {
+            "type": "quote",
+            "settings": {
+              "enable": true,
+              "title": "Custom Block",
+              "quote": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1543314984589",
+          "1543315002517",
+          "1543315033286",
+          "1543315049567",
+          "1543315088462"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "show_sidebar": "left"
+        }
+      },
+      "collection-template-default": {
+        "type": "collection-template-default",
+        "settings": {
+          "display_collection_image": true,
+          "collection_image": "",
+          "display_collection_des": true,
+          "limited_view": true,
+          "sort_enable": true,
+          "collection_results_per_row": "3",
+          "collection_results_per_page": "12"
+        }
+      },
+      "sidebar-filter": {
+        "type": "sidebar-filter",
+        "blocks": {
+          "1543545849973": {
+            "type": "filter_color",
+            "settings": {
+              "enable": true,
+              "title": "Color",
+              "color_text_1": "Color_Black",
+              "color_img_1": "shopify:\/\/shop_images\/black.png",
+              "color_text_2": "Color_White",
+              "color_img_2": "shopify:\/\/shop_images\/white.png",
+              "color_text_3": "Color_Blue",
+              "color_img_3": "shopify:\/\/shop_images\/blue.png",
+              "color_text_4": "Color_Brown",
+              "color_img_4": "shopify:\/\/shop_images\/brown.png",
+              "color_text_5": "Pink",
+              "color_img_5": "",
+              "color_text_6": "Blue",
+              "color_img_6": "",
+              "color_text_7": "Gray",
+              "color_img_7": "",
+              "color_text_8": "Green",
+              "color_img_8": "",
+              "color_text_9": "Yellow",
+              "color_img_9": "",
+              "color_text_10": "",
+              "color_img_10": "",
+              "color_text_11": "",
+              "color_img_11": "",
+              "color_text_12": "",
+              "color_img_12": "",
+              "color_text_13": "",
+              "color_img_13": "",
+              "color_text_14": "",
+              "color_img_14": "",
+              "color_text_15": "",
+              "color_img_15": "",
+              "color_text_16": "",
+              "color_img_16": "",
+              "color_text_17": "",
+              "color_img_17": "",
+              "color_text_18": "",
+              "color_img_18": "",
+              "color_text_19": "",
+              "color_img_19": "",
+              "color_text_20": "",
+              "color_img_20": ""
+            }
+          },
+          "1543546574439": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Size | Größe",
+              "list_tags": "Size_XS,\nSize_S,\nSize_M,\nSize_XL,\nSize_XL,\nSize_2X,\nSize_3X"
+            }
+          },
+          "1543546610760": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Price",
+              "list_tags": "Price_Under $100,\nPrice_$100-$300,\nPrice_Above $300,\nPrice_Above $1000,"
+            }
+          },
+          "1543546642200": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Brand",
+              "list_tags": "Accesi,\nBikis,\nBista,\nCasa,\nChipa,\nConverse,\nElle,\nExposta,\nGlasta,\nGodo,\nGuuci,\nHanditech,\nJeana,\nLaccoste,\nLadora,\nLuxurica,\nNiko,"
+            }
+          },
+          "1543546687010": {
+            "type": "filter_text",
+            "settings": {
+              "enable": true,
+              "title": "Product Type",
+              "list_tags": "Dincidunteros,\nCosmopolis,\nSolutmades,\nLoremous Comodous,"
+            }
+          }
+        },
+        "block_order": [
+          "1543545849973",
+          "1543546574439",
+          "1543546610760",
+          "1543546642200",
+          "1543546687010"
+        ],
+        "settings": {
+          "display_sidebar": true,
+          "show_sidebar": "left",
+          "enable_categories": true,
+          "title_categories": "Categories | Categories",
+          "style_categories": "style_little",
+          "link_list": "main-menu",
+          "enable_product": true,
+          "title_product": "Featured Products | Featured Products",
+          "collection": "daniel-matsunaga",
+          "limit": "5",
+          "enable_img_1": true,
+          "image_img_1": "",
+          "link_img_1": "shopify:\/\/collections\/blaz-ro",
+          "enable_img_2": true,
+          "image_img_2": "",
+          "link_img_2": "shopify:\/\/collections\/congu",
+          "enable_custom_block": true,
+          "title_custom_block": "Custom Block | Custom Block",
+          "quote_custom_block": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+        }
+      },
+      "product-template-default": {
+        "type": "product-template-default",
+        "blocks": {
+          "1545637133729": {
+            "type": "image",
+            "settings": {
+              "main_pr_look": "",
+              "image_1": "",
+              "lb_product_1_1": "",
+              "top_position_1_1": "10",
+              "left_position_1_1": "10",
+              "dots_color_1_1": "#ffffff",
+              "dots_bg_color_1_1": "#323232",
+              "dots_shadow_color_1_1": "#ffffff",
+              "lb_product_1_2": "",
+              "top_position_1_2": "10",
+              "left_position_1_2": "10",
+              "dots_color_1_2": "#ffffff",
+              "dots_bg_color_1_2": "#323232",
+              "dots_shadow_color_1_2": "#ffffff",
+              "lb_product_1_3": "",
+              "top_position_1_3": "10",
+              "left_position_1_3": "10",
+              "dots_color_1_3": "#ffffff",
+              "dots_bg_color_1_3": "#323232",
+              "dots_shadow_color_1_3": "#ffffff",
+              "image_2": "",
+              "lb_product_2_1": "",
+              "top_position_2_1": "10",
+              "left_position_2_1": "10",
+              "dots_color_2_1": "#ffffff",
+              "dots_bg_color_2_1": "#323232",
+              "dots_shadow_color_2_1": "#ffffff",
+              "lb_product_2_2": "",
+              "top_position_2_2": "10",
+              "left_position_2_2": "10",
+              "dots_color_2_2": "#ffffff",
+              "dots_bg_color_2_2": "#323232",
+              "dots_shadow_color_2_2": "#ffffff",
+              "lb_product_2_3": "",
+              "top_position_2_3": "10",
+              "left_position_2_3": "10",
+              "dots_color_2_3": "#ffffff",
+              "dots_bg_color_2_3": "#323232",
+              "dots_shadow_color_2_3": "#ffffff",
+              "image_3": "",
+              "lb_product_3_1": "",
+              "top_position_3_1": "10",
+              "left_position_3_1": "10",
+              "dots_color_3_1": "#ffffff",
+              "dots_bg_color_3_1": "#323232",
+              "dots_shadow_color_3_1": "#ffffff",
+              "lb_product_3_2": "",
+              "top_position_3_2": "10",
+              "left_position_3_2": "10",
+              "dots_color_3_2": "#ffffff",
+              "dots_bg_color_3_2": "#323232",
+              "dots_shadow_color_3_2": "#ffffff",
+              "lb_product_3_3": "",
+              "top_position_3_3": "10",
+              "left_position_3_3": "10",
+              "dots_color_3_3": "#ffffff",
+              "dots_bg_color_3_3": "#323232",
+              "dots_shadow_color_3_3": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "1545637133729"
+        ],
+        "settings": {
+          "style_moreview": "horizontal",
+          "video_product": true,
+          "video_product_icon": "#c1c1c1",
+          "enable_payment_button": true,
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "text_vendor": "Brand:",
+          "display_product_sku": true,
+          "text_product_sku": "Product Code:",
+          "display_availability": true,
+          "text_availability": "Availability:",
+          "display_product_type": false,
+          "text_product_type": "Product Type:",
+          "countdown": "countdown_1",
+          "text_countdown": "Limited-Time Offers, End in:",
+          "progressbar_1": "Please hurry, only",
+          "progressbar_2": "left in stock",
+          "total_items": "100",
+          "min_items_left": "15",
+          "max_items_left": "50",
+          "progressbar_color": "#f5f5f5",
+          "progressbar_active_color": "#69c69c",
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "show_desc": "short",
+          "display_subtotal": true,
+          "display_product_detail_tag": false,
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "display_trust_img": true,
+          "show_tab": "horizontal",
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_reviews": true,
+          "product_review_title": "Customer Reviews",
+          "display_shipping_returns": true,
+          "shipping_returns_title": "Shipping & Returns",
+          "shipping_returns_content": "<h4>RETURNS POLICY<\/h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis.<\/p>\n<p>\nDonec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>\nCurabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>\n<h4>SHIPPING<\/h4>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut blandit risus. Donec mollis nec tellus et rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut consequat quam a purus faucibus scelerisque. Mauris ac dui ante. Pellentesque congue porttitor tempus. Donec sodales dapibus urna sed dictum. Duis congue posuere libero, a aliquam est porta quis.<\/p>\n<p>\nDonec ullamcorper magna enim, vitae fermentum turpis elementum quis. Interdum et malesuada fames ac ante ipsum primis in faucibus. <\/p>\n<p>\nCurabitur vel sem mi. Proin in lobortis ipsum. Aliquam rutrum tempor ex ac rutrum. Maecenas nunc nulla, placerat at eleifend in, viverra etos sem. Nam sagittis lacus metus, dignissim blandit magna euismod eget. Suspendisse a nisl lacus. Phasellus eget augue tincidunt, sollicitudin lectus sed, convallis desto. Pellentesque vitae dui lacinia, venenatis erat sit amet, fringilla felis. Nullam maximus nisi nec mi facilisis.<\/p>",
+          "display_custom_tab": true,
+          "custom_tab_title": "Custom Product Tab",
+          "custom_tab_type": "specified",
+          "custom_tab_content": "",
+          "display_related_products": true,
+          "related_products_title": "Related Products",
+          "number_of_related_products": "8",
+          "dpl_lookbook_description": true,
+          "style_lookbook_description": "all_product",
+          "quote_title": "Sample Block Quote",
+          "quote_des": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo loremous convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos.",
+          "quote_title_2": "Sample Paragraph Text",
+          "quote_des_2": "<p>\nPraesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui.\n<\/p>\n<p>\nCras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elitos. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.\n<\/p>",
+          "dpl_gallery_lookbook": true,
+          "style_lookbook_gallery": "all_product",
+          "dpl_grouped_product": true,
+          "grouped_title": "Frequently Bought Together",
+          "grouped_choose_options_text": "Please choose options for all selected products",
+          "choose_options": "Choose Options",
+          "enable_bundle_discount": true,
+          "bundle_discount_text": "Get a [discount]% discount buying these products together | Erhalten Sie einen Rabatt von [discount]%, wenn Sie diese Produkte zusammen kaufen"
+        }
+      },
+      "cart-best-sellers": {
+        "type": "cart-best-sellers",
+        "settings": {
+          "show_cart_best_sellers_product": true,
+          "title": "Best Sellers",
+          "show_slider_featured_collection": "",
+          "slider_featured_limit_all": 10,
+          "collection_results_per_row1": "5"
+        }
+      },
+      "sidebar-blog": {
+        "type": "sidebar-blog",
+        "blocks": {
+          "1546400179484": {
+            "type": "product",
+            "settings": {
+              "enable": true,
+              "title": "Featured Products",
+              "collection": "",
+              "limit": "8"
+            }
+          },
+          "1546400210430": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "",
+              "link": "shopify:\/\/collections\/all"
+            }
+          },
+          "1546400245437": {
+            "type": "image",
+            "settings": {
+              "enable": true,
+              "image": "",
+              "link": ""
+            }
+          },
+          "1546400262551": {
+            "type": "quote",
+            "settings": {
+              "enable": true,
+              "title": "Custom Block",
+              "quote": "<p>Custom CMS block displayed at the left sidebar on the Catalog Page. Put your own content here: text, html, images, media... whatever you like.<\/p>\n<p>There are many similar sample content placeholders across the store. All editable from admin panel.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "1546400179484",
+          "1546400210430",
+          "1546400245437",
+          "1546400262551"
+        ],
+        "settings": {
+          "display_sidebar_blog_page": true,
+          "show_sidebar": "left",
+          "display_sidebar_link": true,
+          "sidebar_link_title": "Categories",
+          "style_categories": "style_little",
+          "link_list": "",
+          "sidebar_recent_art": true,
+          "sidebar_blog_tags": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "blocks": {
+          "1546501567008": {
+            "type": "image",
+            "settings": {
+              "image_1": "",
+              "lb_product_1_1": "",
+              "top_position_1_1": "27",
+              "left_position_1_1": "64",
+              "dots_color_1_1": "#ffffff",
+              "dots_bg_color_1_1": "#323232",
+              "dots_shadow_color_1_1": "#323232",
+              "lb_product_1_2": "",
+              "top_position_1_2": "10",
+              "left_position_1_2": "10",
+              "dots_color_1_2": "#ffffff",
+              "dots_bg_color_1_2": "#323232",
+              "dots_shadow_color_1_2": "#ffffff",
+              "lb_product_1_3": "",
+              "top_position_1_3": "10",
+              "left_position_1_3": "10",
+              "dots_color_1_3": "#ffffff",
+              "dots_bg_color_1_3": "#323232",
+              "dots_shadow_color_1_3": "#ffffff",
+              "image_2": "",
+              "lb_product_2_1": "",
+              "top_position_2_1": "28",
+              "left_position_2_1": "28",
+              "dots_color_2_1": "#ffffff",
+              "dots_bg_color_2_1": "#323232",
+              "dots_shadow_color_2_1": "#323232",
+              "lb_product_2_2": "",
+              "top_position_2_2": "83",
+              "left_position_2_2": "66",
+              "dots_color_2_2": "#ffffff",
+              "dots_bg_color_2_2": "#323232",
+              "dots_shadow_color_2_2": "#323232",
+              "lb_product_2_3": "",
+              "top_position_2_3": "10",
+              "left_position_2_3": "10",
+              "dots_color_2_3": "#ffffff",
+              "dots_bg_color_2_3": "#323232",
+              "dots_shadow_color_2_3": "#ffffff",
+              "image_3": "",
+              "lb_product_3_1": "",
+              "top_position_3_1": "26",
+              "left_position_3_1": "68",
+              "dots_color_3_1": "#ffffff",
+              "dots_bg_color_3_1": "#323232",
+              "dots_shadow_color_3_1": "#323232",
+              "lb_product_3_2": "",
+              "top_position_3_2": "10",
+              "left_position_3_2": "10",
+              "dots_color_3_2": "#ffffff",
+              "dots_bg_color_3_2": "#323232",
+              "dots_shadow_color_3_2": "#ffffff",
+              "lb_product_3_3": "",
+              "top_position_3_3": "10",
+              "left_position_3_3": "10",
+              "dots_color_3_3": "#ffffff",
+              "dots_bg_color_3_3": "#323232",
+              "dots_shadow_color_3_3": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "1546501567008"
+        ],
+        "settings": {
+          "blog_show_author": true,
+          "blog_show_date": true,
+          "dpl_lookbook_description": true,
+          "quote_title": "Sample Block Quote",
+          "quote_des": "Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo loremous convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos.",
+          "quote_title_2": "Sample Paragraph Text",
+          "quote_des_2": "<p>\nPraesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui.\n<\/p>\n<p>\nCras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elitos. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.\n<\/p>",
+          "dpl_gallery_lookbook": true,
+          "gallery_lb_title": "LookBook Gallery",
+          "show_cart_best_sellers_product": false,
+          "title": "Editor’s Picks",
+          "show_slider_featured_collection": "",
+          "slider_featured_limit_all": 8,
+          "collection_results_per_row1": "4"
+        }
+      },
+      "brands-page": {
+        "type": "brands-page",
+        "blocks": {
+          "1546921086313": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "title": "Loremous",
+              "link": ""
+            }
+          },
+          "1546921152681": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "title": "Isablella",
+              "link": ""
+            }
+          },
+          "1546921217742": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          },
+          "1546921256644": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "title": "Fermends",
+              "link": ""
+            }
+          },
+          "1546921290795": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "title": "conseqaur",
+              "link": ""
+            }
+          },
+          "1546921315910": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "title": "Benjamin Button",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1546921086313",
+          "1546921152681",
+          "1546921217742",
+          "1546921256644",
+          "1546921290795",
+          "1546921315910"
+        ],
+        "settings": {
+          "display_brand": false
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "display_header_top": false,
+          "top_message_text": "Mid-Season Sale Up to 70% OFF. <a href=\"\/collections\/all\">Shop Now<\/a>",
+          "bg_header_top": "#ffe8e8",
+          "text_header_top_color": "#b05d5d",
+          "brand_type": "image",
+          "brand_text": "",
+          "logo": "shopify:\/\/shop_images\/logo10fav.png",
+          "max_height_logo_mb": "26px",
+          "logo_pc": "shopify:\/\/shop_images\/Relevant_Medium_Logo_2.jpg",
+          "max_height_logo_pc": "64px",
+          "bg_search_color": "#fafafa",
+          "search_color": "#323232",
+          "search_border_color": "#e7e7e7",
+          "bg_header_bottom_color": "#ffffff",
+          "header_bottom_link_color": "#232323",
+          "header_bottom_text_color": "#323232",
+          "display_customer_service": true,
+          "customer_service_text": "<a href=\"callto:027938985\"> <strong>CUSTOMER SERVICE:  (02) 793 8985<\/strong><\/a>",
+          "display_free_shipping": false,
+          "free_shipping_text": "Free shipping nationwide on All Orders. No Minimum Purchase",
+          "bg_cart_color": "#812529",
+          "cart_color": "#ffffff",
+          "dropdowncart_type": "hover"
+        }
+      },
+      "shop-instagram": {
+        "type": "shop-instagram",
+        "settings": {
+          "title": "Shop Instagram",
+          "des": "Nullam aliquet vestibulum augue non varius cras de congue elitos. Duis tristique delos ante an daliquam. Praesent urna tellus laoreet an tellus ullamcorper fermentum facilisis.",
+          "embed_code": "<script src=\"https:\/\/snapppt.com\/widgets\/widget_loader\/33732d63-5077-4f49-a869-7d4ddc227b6f\/grid.js\" defer class=\"snapppt-widget\"><\/script>"
+        }
+      },
+      "someone-purchased": {
+        "type": "someone-purchased",
+        "blocks": {
+          "1548643650260": {
+            "type": "image",
+            "settings": {
+              "product": "alphadom-product-sample",
+              "from_ago": "Blackburn, UK",
+              "time_ago": "20"
+            }
+          },
+          "1548643708120": {
+            "type": "image",
+            "settings": {
+              "product": "anity-product-sample",
+              "from_ago": "Washington, US",
+              "time_ago": "30"
+            }
+          },
+          "1548643726643": {
+            "type": "image",
+            "settings": {
+              "product": "condax-product-sample",
+              "from_ago": "Blumenau, Brazil",
+              "time_ago": "10"
+            }
+          },
+          "1548643747526": {
+            "type": "image",
+            "settings": {
+              "product": "quisque-placerat-libero",
+              "from_ago": "Bauru, Brazil",
+              "time_ago": "35"
+            }
+          }
+        },
+        "block_order": [
+          "1548643650260",
+          "1548643708120",
+          "1548643726643",
+          "1548643747526"
+        ],
+        "settings": {
+          "display_someone-purchased": false,
+          "display_someone-purchased_mb": false,
+          "show_someone-purchased": "right",
+          "someone_speed": "7000",
+          "text": "Someone recently bought a",
+          "time_location_text": "[time] minutes ago, from [location] | vor [time] Minuten, von [location]"
+        }
+      },
+      "GDPR-modal": {
+        "type": "GDPR-modal",
+        "settings": {
+          "display_gdpr": true,
+          "show_gdp": "left",
+          "bg_color": "#141414",
+          "text_color": "#ffffff",
+          "privacy_policy_color": "#818181",
+          "content": "The cookie settings on this website are set to 'allow all cookies' to give you the very best experience. Please click Accept Cookies to continue to use the site.",
+          "privacy_policy_text": "privacy policy",
+          "privacy_policy_link": "https:\/\/policies.google.com\/",
+          "accept_cookies_text": "accept"
+        }
+      },
+      "1540952363851": {
+        "type": "home-slideshow",
+        "blocks": {
+          "1561356012997": {
+            "type": "video",
+            "settings": {
+              "style_video": "mp4",
+              "video_link": "eTCtDW7O1aM",
+              "video_mp4_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/1174\/3722\/files\/thelook.mp4?1738138382790769628",
+              "alignment": "left",
+              "heading": "",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "",
+              "font_size_des": "12px",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#fff"
+            }
+          },
+          "1540956857517": {
+            "type": "image",
+            "settings": {
+              "dpl_slide_img": true,
+              "image_slide": "shopify:\/\/shop_images\/beach-smiles_1.jpg",
+              "image_slide_mb": "",
+              "alignment": "left",
+              "heading": "Relevant Medium",
+              "font_size_heading": "40px",
+              "color_heading": "#232323",
+              "slide-des": "Relevant Medium is Southeast Asia's first ever integrated celebrity-inspired marketplace designed to connect modern-day influencers with their fans in a one-stop shop for e-commerce, curated brands, and virtual-in-life channel engagement.",
+              "font_size_des": "16px",
+              "color_des": "#232323",
+              "button_slide": "",
+              "link": "",
+              "bg_button": "#232323",
+              "border_button": "#232323",
+              "color_button": "#ffffff",
+              "lb_product_1": "",
+              "top_position_1": "10",
+              "left_position_1": "10",
+              "dots_color_1": "#ffffff",
+              "dots_bg_color_1": "#323232",
+              "dots_shadow_color_1": "#ffffff",
+              "lb_product_2": "",
+              "top_position_2": "10",
+              "left_position_2": "10",
+              "dots_color_2": "#ffffff",
+              "dots_bg_color_2": "#323232",
+              "dots_shadow_color_2": "#ffffff",
+              "lb_product_3": "",
+              "top_position_3": "10",
+              "left_position_3": "10",
+              "dots_color_3": "#ffffff",
+              "dots_bg_color_3": "#323232",
+              "dots_shadow_color_3": "#ffffff"
+            }
+          }
+        },
+        "block_order": [
+          "1561356012997",
+          "1540956857517"
+        ],
+        "settings": {
+          "layout": "full",
+          "margin_bottom_mb": 20,
+          "margin_bottom_tab": 20,
+          "margin_bottom": 0,
+          "autoplay": true,
+          "slideshow_speed": "10000",
+          "slideshow_transition": "true",
+          "dots": "true",
+          "dots_color": "#3c3c3c",
+          "dots_active_color": "#3c3c3c",
+          "dots_opacity": true,
+          "arrow_color": "#3c3c3c",
+          "arrow_border_color": "#3c3c3c",
+          "arrow_bg_color": "rgba(0,0,0,0)",
+          "position_slick_arrow": "9.5%",
+          "min_width_banner_button": "",
+          "bg_video": "#812529",
+          "bg_overlay_opacity": 35,
+          "video_height": "38.3%",
+          "auto_playvideo": true
+        }
+      },
+      "1540984915288": {
+        "type": "home-sub-banner",
+        "blocks": {
+          "1540984915288-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/makeup-and-jewelry.jpg",
+              "title": "Accessories",
+              "color_title": "#ffffff",
+              "link": ""
+            }
+          },
+          "1540984915288-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/footwear-close-up-man-tying-shoelace.jpg",
+              "title": "Shoes",
+              "color_title": "#ffffff",
+              "link": ""
+            }
+          },
+          "1540985049803": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/clothing-rack-t-shirts-for-sale-blank-sign.jpg",
+              "title": "Clothes",
+              "color_title": "#ffffff",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1540984915288-0",
+          "1540984915288-1",
+          "1540985049803"
+        ],
+        "settings": {
+          "display_sub_banner": true,
+          "layout": "default",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "font_size_title": "16px",
+          "display_padding": true
+        }
+      },
+      "1541402822593": {
+        "type": "home-featured-products",
+        "settings": {
+          "display_banner": true,
+          "banner_is": "right",
+          "image": "shopify:\/\/shop_images\/clothing-rack-t-shirts-for-sale-blank-sign_1024x1024_crop_center_2_b4deb5d1-5dbc-479e-b09b-e7638a1e4e9c.jpg",
+          "banner_heading": "#TRENDINGNOW",
+          "font_size_banner_heading": "40px",
+          "color_banner_heading": "#ffffff",
+          "banner_sub_heading": "Spring Summer’08",
+          "font_size_banner_sub_heading": "13px",
+          "color_banner_sub_heading": "#ffffff",
+          "banner_des": "Phasellus lorem malesuada ligula pulvinar de cosmopolis",
+          "font_size_banner_des": "12px",
+          "color_banner_des": "#ffffff",
+          "banner_button": "Shop Now",
+          "link": "shopify:\/\/collections\/daniel-matsunaga",
+          "bg_banner_button": "#ffffff",
+          "border_banner_button": "#ffffff",
+          "color_banner_button": "#232323",
+          "featured_products_title": "Trending Now",
+          "featured_products_des": "",
+          "title_style": "style_1",
+          "show_slider_featured_collection": "daniel-matsunaga",
+          "slider_featured_limit_all": 20,
+          "collection_results_per_row1": "3",
+          "margin_bottom_mb": 35,
+          "margin_bottom_tab": 40,
+          "margin_bottom": 35
+        }
+      },
+      "1541414200176": {
+        "type": "home-custom-block-spotlight",
+        "blocks": {
+          "1541414200176-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/daniel_matsunaga.jpg",
+              "title": "Daniel Matsunaga",
+              "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+              "button": "Shop Now",
+              "link": ""
+            }
+          },
+          "1541414200176-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3.jpg",
+              "title": "JOANE SANTINO",
+              "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+              "button": "Shop Now",
+              "link": ""
+            }
+          },
+          "1541414200176-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/74_76.jpg",
+              "title": "SAM RICHELLE DEL ROSARIO",
+              "des": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+              "button": "Shop Now",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1541414200176-0",
+          "1541414200176-1",
+          "1541414200176-2"
+        ],
+        "settings": {
+          "layout": "default",
+          "margin_bottom_mb": 25,
+          "margin_bottom_tab": 35,
+          "margin_bottom": 35,
+          "spotlight_block_title": "Influencers of the Month",
+          "spotlight_block_des": "",
+          "title_style": "style_1"
+        }
+      },
+      "1541566560488": {
+        "type": "home-instagram",
+        "disabled": true,
+        "settings": {
+          "show_instagram": true,
+          "layout": "default",
+          "display_border_top": false,
+          "instagram_bg": "#fafafa",
+          "instagram_title": "#relevantmedium On Instagram",
+          "instagram_des": "",
+          "title_style": "style_2",
+          "display_instagram_button": true,
+          "instagram_button_text": "View Gallery",
+          "instagram_button_link": "",
+          "accessToken": "14753023285.1677ed0.0c4cda803b1a4e19bdf92da2ecdd6f13",
+          "limit": "10",
+          "images_per_row": "5",
+          "slide_ins": "default_ins",
+          "display_arrow": true,
+          "slide_rows": "1",
+          "resolution_images": "low_resolution"
+        }
+      },
+      "footer-4": {
+        "type": "footer-4",
+        "blocks": {
+          "1554384624838": {
+            "type": "footer_link",
+            "settings": {
+              "footer_title": "",
+              "footer_linklist": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "1554384624838"
+        ],
+        "settings": {
+          "layout": "padd_60",
+          "bg_footer_img": "none",
+          "bg_footer_color": "#fafafa",
+          "bg_footer_position_x": "left",
+          "bg_footer_position_y": "top",
+          "bg_footer_repeat": "repeat",
+          "bg_footer_attachment": "scroll",
+          "bg-footer-img": "",
+          "footer_title_color": "#232323",
+          "footer_link_color": "#707070",
+          "footer_link_hover_color": "#707070",
+          "bg_footer_line_color": "#ebebeb",
+          "display_store_location": false,
+          "footer_logo": "",
+          "footer_info_store": "",
+          "footer_social_enable": false,
+          "social_icon_color": "#232323",
+          "footer_newsletter_enable": false,
+          "footer_newsletter_title": "",
+          "footer_newsletter_des": "",
+          "guarantee_img": "",
+          "bg_newsletter_color": "#ffffff",
+          "newsletter_color": "#aaaaaa",
+          "newsletter_border_color": "#d7d7d7",
+          "bg_newsletter_button_color": "#232323",
+          "newsletter_button_color": "#ffffff",
+          "bg_footer_bottom_color": "#ffffff",
+          "footer_bottom_color": "#707070",
+          "footer_address_code": "",
+          "show_payment_icons": false,
+          "payment_display_visa": false,
+          "payment_display_visa_electron": false,
+          "payment_display_american_express": false,
+          "payment_display_master": false,
+          "payment_display_maestro": false,
+          "payment_display_solo": false,
+          "payment_display_paypal": false,
+          "payment_display_amazon_payments": false,
+          "payment_display_apple_pay": false,
+          "payment_display_bitcoin": false,
+          "payment_display_cirrus": false,
+          "payment_display_dankort": false,
+          "payment_display_diners_club": false,
+          "payment_display_discover": false,
+          "payment_display_dogecoin": false,
+          "payment_display_dwolla": false,
+          "payment_display_forbrugsforeningen": false,
+          "payment_display_interac": false,
+          "payment_display_jcb": false,
+          "payment_display_litecoin": false,
+          "payment_display_stripe": false,
+          "payment_display_sage": false,
+          "payment_display_wallet": false,
+          "icon_visa": "",
+          "icon_visa_electron": "",
+          "icon_master": "",
+          "icon_american_express": "",
+          "icon_maestro": "",
+          "icon_solo": "",
+          "icon_paypal": "",
+          "icon_amazon_payments": "",
+          "icon_apple_pay": "",
+          "icon_bitcoin": "",
+          "icon_cirrus": "",
+          "icon_dankort": "",
+          "icon_diners_club": "",
+          "icon_discover": "",
+          "icon_dogecoin": "",
+          "icon_dwolla": "",
+          "icon_forbrugsforeningen": "",
+          "icon_interac": "",
+          "icon_jcb": "",
+          "icon_litecoin": "",
+          "icon_stripe": "",
+          "icon_sage": "",
+          "icon_wallet": ""
+        }
+      },
+      "header-parallax": {
+        "type": "header-parallax",
+        "settings": {
+          "display_header_top": true,
+          "top_message_text": "Mid-Season Sale Up to 70% OFF.",
+          "font_weight_bold": true,
+          "bg_header_top": "#ef6454",
+          "text_header_top_color": "#fff",
+          "brand_type": "text",
+          "brand_text": "",
+          "logo": "",
+          "max_height_logo_mb": "26px",
+          "logo_pc": "",
+          "max_height_logo_pc": "33px",
+          "display_parallax": true,
+          "font_weight_nav": false,
+          "logo_parallax": "",
+          "menu_parallax_color": "#fff",
+          "bg_search_color": "#f8f8f8",
+          "search_color": "#787878",
+          "search_color_btn": "#333",
+          "bg_cart_color": "#1e1e1e",
+          "cart_color": "#fff",
+          "display_fixtop_menu": true,
+          "alignment": "left",
+          "bg_menu": "#fff",
+          "bg_dropdown_menu": "#f8f8f8",
+          "color_menu_lv1": "#232323",
+          "hover_color_mnu_lv1": "#232323",
+          "font_size_mnu_lv1": "13px",
+          "color_menu_lv2": "#232323",
+          "hover_color_mnu_lv2": "#232323",
+          "font_size_mnu_lv2": "12px",
+          "color_menu_lv3": "#3c3c3c",
+          "hover_color_mnu_lv3": "#0688e2",
+          "font_size_mnu_lv3": "12px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#fff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "",
+          "bg_lb_new": "#06bfe2",
+          "color_lb_new": "#fff",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "",
+          "bg_lb_hot": "#ffbb49",
+          "color_lb_hot": "#fff",
+          "display_megamenu": true
+        }
+      },
+      "header-02": {
+        "type": "header-02",
+        "settings": {
+          "display_header_top": true,
+          "top_message_text": "Mid-Season Sale Up to 70% OFF.",
+          "bg_header_top": "#ffe8e8",
+          "text_header_top_color": "#b05d5d",
+          "brand_type": "text",
+          "brand_text": "",
+          "logo": "",
+          "max_height_logo_mb": "26px",
+          "logo_pc": "",
+          "max_height_logo_pc": "37px",
+          "bg_search_color": "#fff",
+          "search_color": "#646464",
+          "search_border_color": "#cbcbcb",
+          "bg_header_bottom_color": "#fff",
+          "header_bottom_link_color": "#646464",
+          "free_shipping_text_1": "Free Express Shipping for all orders",
+          "free_shipping_text_2": "Free In-store returns",
+          "bg_cart_color": "#fff",
+          "cart_color": "#646464"
+        }
+      },
+      "header-03": {
+        "type": "header-03",
+        "settings": {
+          "display_header_top": true,
+          "top_message_text": "Top Promotion Bar Description",
+          "font_weight_bold": false,
+          "bg_header_top": "#232323",
+          "text_header_top_color": "#fff",
+          "display_parallax": false,
+          "logo_parallax": "",
+          "menu_parallax_color": "#fff",
+          "bg_header_bottom_color_1": "#f8f8f8",
+          "bg_header_bottom_color": "#fff",
+          "header_bottom_icon_color": "#232323",
+          "header_bottom_text_color": "#3c3c3c",
+          "display_header_social": true,
+          "display_customer_service": true,
+          "customer_service_text": "Customer Service 1.900.000.6690",
+          "display_free_shipping": true,
+          "free_shipping_text": "Mid-Season Sale Up to 70% OFF",
+          "brand_type": "text",
+          "brand_text": "",
+          "logo": "",
+          "max_height_logo_mb": "26px",
+          "logo_pc": "",
+          "max_height_logo_pc": "37px",
+          "bg_search_color": "#fff",
+          "search_color": "#848484",
+          "search_border_color": "#ebebeb",
+          "bg_cart_color": "#e95144",
+          "cart_color": "#fff"
+        }
+      },
+      "header-04": {
+        "type": "header-04",
+        "settings": {
+          "brand_type": "text",
+          "brand_text": "",
+          "logo": "",
+          "max_height_logo_mb": "26px",
+          "logo_pc": "",
+          "max_height_logo_pc": "30px",
+          "bg_search_color": "#fff",
+          "search_color": "#232323",
+          "search_color_border": "#3c3c3c",
+          "bg_cart_color": "#1e1e1e",
+          "cart_color": "#fff",
+          "display_fixtop_menu": true,
+          "alignment": "left",
+          "bg_menu": "#fff",
+          "bg_dropdown_menu": "#f8f8f8",
+          "color_menu_lv1": "#232323",
+          "hover_color_mnu_lv1": "#232323",
+          "font_size_mnu_lv1": "13px",
+          "color_menu_lv2": "#232323",
+          "hover_color_mnu_lv2": "#232323",
+          "font_size_mnu_lv2": "12px",
+          "color_menu_lv3": "#3c3c3c",
+          "hover_color_mnu_lv3": "#0688e2",
+          "font_size_mnu_lv3": "12px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#fff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "",
+          "bg_lb_new": "#06bfe2",
+          "color_lb_new": "#fff",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "",
+          "bg_lb_hot": "#ffbb49",
+          "color_lb_hot": "#fff",
+          "display_header_policies": true,
+          "policies_border_color": "#a7a7a7",
+          "policies_bg_color": "#232323",
+          "policies_color": "#fff",
+          "icon_1": "",
+          "text_1": "Free Shipping on all orders *",
+          "link_1": "",
+          "icon_2": "",
+          "text_2": "Free Shipping on all orders *",
+          "link_2": "",
+          "icon_3": "",
+          "text_3": "Free Shipping on all orders *",
+          "link_3": "",
+          "display_megamenu": true
+        }
+      },
+      "header-vertical": {
+        "type": "header-vertical",
+        "settings": {
+          "bg_header": "#fff",
+          "color_header": "#282828",
+          "brand_type": "text",
+          "brand_text": "",
+          "logo": "",
+          "max_height_logo_mb": "26px",
+          "logo_pc": "",
+          "max_height_logo_pc": "33px",
+          "bg_search_color": "#fff",
+          "search_color": "#969696",
+          "search_color_border": "#c1c1c1",
+          "bg_cart_color": "#e95144",
+          "cart_color": "#fff",
+          "display_fixtop_menu": true,
+          "bg_menu": "#fff",
+          "bg_dropdown_menu": "#fff",
+          "color_menu_lv1": "#232323",
+          "hover_color_mnu_lv1": "#232323",
+          "font_size_mnu_lv1": "13px",
+          "color_menu_lv2": "#232323",
+          "hover_color_mnu_lv2": "#232323",
+          "font_size_mnu_lv2": "12px",
+          "color_menu_lv3": "#3c3c3c",
+          "hover_color_mnu_lv3": "#0688e2",
+          "font_size_mnu_lv3": "12px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#fff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "",
+          "bg_lb_new": "#06bfe2",
+          "color_lb_new": "#fff",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "",
+          "bg_lb_hot": "#ffbb49",
+          "color_lb_hot": "#fff",
+          "display_megamenu": true
+        }
+      },
+      "navigation-vertical-menu": {
+        "type": "navigation-vertical-menu",
+        "settings": {
+          "brand_type": "text",
+          "brand_text": "",
+          "logo_pc": "",
+          "max_height_logo_pc": "33px",
+          "display_social": true,
+          "address_code": "Shopify themes by Halothemes",
+          "display_typography_label": true,
+          "img_1": "",
+          "img_2": "",
+          "alignment": "left",
+          "bg_menu": "#232323",
+          "bg_dropdown_menu": "#fff",
+          "color_menu_lv1": "#fff",
+          "hover_color_mnu_lv1": "#fff",
+          "font_size_mnu_lv1": "13px",
+          "color_menu_lv2": "#232323",
+          "hover_color_mnu_lv2": "#232323",
+          "font_size_mnu_lv2": "12px",
+          "color_menu_lv3": "#3c3c3c",
+          "hover_color_mnu_lv3": "#0688e2",
+          "font_size_mnu_lv3": "12px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#fff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "",
+          "bg_lb_new": "#06bfe2",
+          "color_lb_new": "#fff",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "",
+          "bg_lb_hot": "#ffbb49",
+          "color_lb_hot": "#fff",
+          "display_megamenu": true
+        }
+      },
+      "header-supermarket": {
+        "type": "header-supermarket",
+        "settings": {
+          "display_header_top": true,
+          "header_top_image": "",
+          "top_message_text": "Mid-Season Sale up to 70% Off. End Ins:",
+          "countdown": "2020\/01\/7 0:0:00",
+          "bg_header_top": "#e95144",
+          "text_header_top_color": "#fff",
+          "brand_type": "text",
+          "brand_text": "",
+          "logo": "",
+          "max_height_logo_mb": "26px",
+          "logo_pc": "",
+          "max_height_logo_pc": "33px",
+          "bg_header_middel": "#f8f8f8",
+          "header_middel_text_color": "#5a5a5a",
+          "header_middel_icon_color": "#c3c3c3",
+          "info_icon_1": "",
+          "info_text_1": "",
+          "info_icon_2": "",
+          "info_text_2": "",
+          "display_free_shipping": true,
+          "free_shipping_text": "FREE DELIVERY WORLDWIDE",
+          "free_shipping_color": "#d64123",
+          "header-link_1_text": "Theme FAQs",
+          "header-link_1": "",
+          "header-link_2_text": "Need Help?",
+          "header-link_2": "",
+          "bg_header_bottom_color": "#fff",
+          "header_bottom_link_color": "#232323",
+          "header_bottom_icon_color": "#323232",
+          "bg_search_color": "#fff",
+          "search_color": "#323232",
+          "search_border_color": "#dcdcdc",
+          "bg_cart_color": "#e95144",
+          "cart_color": "#fff"
+        }
+      },
+      "navigation-supermarket": {
+        "type": "navigation-supermarket",
+        "settings": {
+          "display_fixtop_menu": true,
+          "logo_fix": "",
+          "horizontal_linklist": "main-menu",
+          "fb_like_code_text": "Like us",
+          "social_facebook_link": "",
+          "alignment": "left",
+          "display_vertical_menu": true,
+          "vertical_linklist": "main-menu",
+          "categories_title": "Categories",
+          "view_all": "View All",
+          "link_view_all": "",
+          "show_menu_at_mb": true,
+          "bg_title": "#f8f8f8",
+          "color_title": "#232323",
+          "color_view_all": "#848484",
+          "bg_menu": "#fff",
+          "bg_dropdown_menu": "#fff",
+          "color_menu_lv1": "#232323",
+          "hover_color_mnu_lv1": "#232323",
+          "font_size_mnu_lv1": "12px",
+          "color_menu_lv2": "#232323",
+          "hover_color_mnu_lv2": "#232323",
+          "font_size_mnu_lv2": "12px",
+          "color_menu_lv3": "#3c3c3c",
+          "hover_color_mnu_lv3": "#0688e2",
+          "font_size_mnu_lv3": "12px",
+          "enable_sale": true,
+          "lb_sale": "Sale",
+          "sale_item": "",
+          "bg_lb_sale": "#ef6454",
+          "color_lb_sale": "#fff",
+          "enable_new": true,
+          "lb_new": "New",
+          "new_item": "",
+          "bg_lb_new": "#06bfe2",
+          "color_lb_new": "#fff",
+          "enable_hot": true,
+          "lb_hot": "Hot",
+          "hot_item": "",
+          "bg_lb_hot": "#ffbb49",
+          "color_lb_hot": "#fff",
+          "display_megamenu": true
+        }
+      },
+      "product-template-grouped": {
+        "type": "product-template-grouped",
+        "settings": {
+          "style_moreview": "horizontal",
+          "video_product": true,
+          "video_product_icon": "#c1c1c1",
+          "show_sold_in": true,
+          "item_prd": "3,5,6,7,8,10,12,15",
+          "item_prds": "sold in last",
+          "hours_prs": "10,15,16,17,18,20,25,35",
+          "item_hours": "hours",
+          "display_vendor": true,
+          "text_vendor": "Vendor:",
+          "display_product_sku": true,
+          "text_product_sku": "SKU:",
+          "display_availability": true,
+          "text_availability": "Availability:",
+          "display_product_type": true,
+          "text_product_type": "Product Type:",
+          "countdown": "countdown_1",
+          "text_countdown": "Limited-Time Offers, End in:",
+          "progressbar_1": "Please hurry, only",
+          "progressbar_2": "left in stock",
+          "total_items": "100",
+          "min_items_left": "8",
+          "max_items_left": "26",
+          "progressbar_color": "#f5f5f5",
+          "progressbar_active_color": "#69c69c",
+          "dpl_customers_view": true,
+          "title_view": "customers are viewing this product",
+          "number_view": "283, 100, 59, 11, 14, 185, 193, 165, 50, 38, 99, 112, 46, 10, 125, 200, 250, 18",
+          "show_desc": "short",
+          "display_subtotal": true,
+          "display_qty": true,
+          "display_product_detail_tag": true,
+          "display_product_detail_share": true,
+          "share_text": "Share",
+          "display_trust_img": true,
+          "show_tab": "horizontal",
+          "display_product_detail_description": true,
+          "product_description_title": "Description",
+          "display_product_reviews": true,
+          "product_review_title": "Customer Reviews",
+          "display_shipping_returns": true,
+          "shipping_returns_title": "Shipping & Returns",
+          "shipping_returns_content": "",
+          "display_custom_tab": true,
+          "custom_tab_title": "Custom Product Tab",
+          "custom_tab_type": "specified",
+          "custom_tab_content": "",
+          "display_related_products": true,
+          "related_products_title": "Related Products",
+          "number_of_related_products": "8",
+          "dpl_lookbook_description": true,
+          "style_lookbook_description": "all_product",
+          "quote_title": "",
+          "quote_des": "",
+          "quote_title_2": "",
+          "quote_des_2": "",
+          "dpl_gallery_lookbook": true,
+          "style_lookbook_gallery": "all_product",
+          "dpl_grouped_product": true,
+          "grouped_product_style": "style_1",
+          "grouped_title": "Frequently Bought Together",
+          "grouped_choose_options_text": "Please choose options for all selected products",
+          "choose_options": "Choose Options",
+          "enable_bundle_discount": true,
+          "bundle_discount_text": "Get a [discount]% discount buying these products together | Erhalten Sie einen Rabatt von [discount]%, wenn Sie diese Produkte zusammen kaufen"
+        }
+      },
+      "1561008129844": {
+        "type": "home-brands",
+        "blocks": {
+          "1561012858345": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/74_76_1.jpg",
+              "title": "SAM RICHELLE DEL ROSARIO",
+              "link": "shopify:\/\/collections\/sam-richelle-del-rosario"
+            }
+          },
+          "1561012893574": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3_-_1.jpg",
+              "title": "JOANE SANTINO",
+              "link": "shopify:\/\/collections\/joane-santino"
+            }
+          },
+          "1561012912657": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2_-_1.jpg",
+              "title": "DANICA SANTOS",
+              "link": "shopify:\/\/collections\/john-doe"
+            }
+          },
+          "1561012949045": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Arthur_Tselishchev_2.jpg",
+              "title": "MARK AVERILLA",
+              "link": "shopify:\/\/collections\/mark-averilla"
+            }
+          },
+          "1561012976338": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Naima_Aharijian_1_7629ebbd-fe73-4921-a72c-c45c6185cf26.jpg",
+              "title": "JANE DOE",
+              "link": "shopify:\/\/collections\/jane-doe"
+            }
+          }
+        },
+        "block_order": [
+          "1561012858345",
+          "1561012893574",
+          "1561012912657",
+          "1561012949045",
+          "1561012976338"
+        ],
+        "settings": {
+          "layout": "default",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "display_brand_border": false,
+          "brand_title": "Influencers",
+          "brand_des": "",
+          "title_style": "style_1",
+          "brand_width": "4",
+          "brand_rows": "4",
+          "image_2": "shopify:\/\/shop_images\/clothing-rack-t-shirts-for-sale-blank-sign.jpg",
+          "title_2": "View All",
+          "color_title_2": "#ffffff",
+          "link_2": "shopify:\/\/pages\/influencer"
+        }
+      },
+      "1561111472861": {
+        "type": "home-brands",
+        "blocks": {
+          "1561111510009": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FeaturedBrands-28.jpeg",
+              "title": "",
+              "link": "shopify:\/\/collections\/brand-1"
+            }
+          },
+          "1561111535027": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FeaturedBrands-30.jpeg",
+              "title": "",
+              "link": "shopify:\/\/collections\/brand-2"
+            }
+          },
+          "1561111590148": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FeaturedBrands-38.jpeg",
+              "title": "",
+              "link": "shopify:\/\/collections\/brand-3"
+            }
+          },
+          "1561111611827": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FeaturedBrands-44.jpeg",
+              "title": "",
+              "link": "shopify:\/\/collections\/brand-4"
+            }
+          },
+          "1561111637854": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FeaturedBrands-45.jpeg",
+              "title": "",
+              "link": "shopify:\/\/collections\/brand-5"
+            }
+          },
+          "1561111665902": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/FeaturedBrands-46.jpeg",
+              "title": "",
+              "link": "shopify:\/\/collections\/brand-6"
+            }
+          }
+        },
+        "block_order": [
+          "1561111510009",
+          "1561111535027",
+          "1561111590148",
+          "1561111611827",
+          "1561111637854",
+          "1561111665902"
+        ],
+        "settings": {
+          "layout": "default",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 40,
+          "display_brand_border": false,
+          "brand_title": "Featured Brands",
+          "brand_des": "",
+          "title_style": "style_1",
+          "brand_width": "5",
+          "brand_rows": "5",
+          "image_2": "",
+          "title_2": "Loremous",
+          "color_title_2": "#fff",
+          "link_2": ""
+        }
+      },
+      "1561115256956": {
+        "type": "home-brands",
+        "blocks": {
+          "1561118601178": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/daniel_matsunaga_1.jpg",
+              "title": "DANIEL MATSUNAGA",
+              "link": "shopify:\/\/collections\/daniel-matsunaga"
+            }
+          },
+          "1561118291225": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3_-_1.jpg",
+              "title": "JOANE SANTINO",
+              "link": "shopify:\/\/collections\/joane-santino"
+            }
+          },
+          "1561118303738": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2_-_1.jpg",
+              "title": "JANE DOE",
+              "link": "shopify:\/\/collections\/jane-doe"
+            }
+          },
+          "1561118309235": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Anton_Del_Rosario-1.jpg",
+              "title": "MARK",
+              "link": "shopify:\/\/collections\/mark-averilla"
+            }
+          },
+          "1561118364523": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/74_76_1.jpg",
+              "title": "SAM DEL ROSARIO",
+              "link": "shopify:\/\/collections\/sam-richelle-del-rosario"
+            }
+          }
+        },
+        "block_order": [
+          "1561118601178",
+          "1561118291225",
+          "1561118303738",
+          "1561118309235",
+          "1561118364523"
+        ],
+        "settings": {
+          "layout": "default",
+          "margin_bottom_mb": 0,
+          "margin_bottom_tab": 0,
+          "margin_bottom": 0,
+          "display_brand_border": false,
+          "brand_title": "Celebrities",
+          "brand_des": "",
+          "title_style": "style_1",
+          "brand_width": "4",
+          "brand_rows": "4",
+          "image_2": "shopify:\/\/shop_images\/all-smiles-for-party-sparklers.jpg",
+          "title_2": "View All",
+          "color_title_2": "#fff",
+          "link_2": "shopify:\/\/pages\/celebrities"
+        }
+      },
+      "1561118161313": {
+        "type": "home-product-tabs",
+        "blocks": {
+          "1561118181633": {
+            "type": "ProductTabs",
+            "settings": {
+              "title": "Men",
+              "collection": "daniel-matsunaga"
+            }
+          },
+          "1561118747158": {
+            "type": "ProductTabs",
+            "settings": {
+              "title": "Accessories",
+              "collection": "daniel-matsunaga"
+            }
+          },
+          "1561118188590": {
+            "type": "ProductTabs",
+            "settings": {
+              "title": "Womens",
+              "collection": "brand-1"
+            }
+          }
+        },
+        "block_order": [
+          "1561118181633",
+          "1561118747158",
+          "1561118188590"
+        ],
+        "settings": {
+          "product_tabs_title": "Featured Products",
+          "product_tabs_des": "",
+          "title_style": "style_1",
+          "collection_results_per_row": "5",
+          "tabs_style": "style_1",
+          "margin_bottom_mb": 40,
+          "margin_bottom_tab": 40,
+          "margin_bottom": 10
+        }
+      },
+      "1561448454830": {
+        "type": "home-featured-products",
+        "settings": {
+          "display_banner": true,
+          "banner_is": "left",
+          "image": "shopify:\/\/shop_images\/all-smiles-for-party-sparklers_1024x1024_crop_center_2.jpg",
+          "banner_heading": "#CAMPAIGNS",
+          "font_size_banner_heading": "40px",
+          "color_banner_heading": "#fff",
+          "banner_sub_heading": "Spring Summer’08",
+          "font_size_banner_sub_heading": "13px",
+          "color_banner_sub_heading": "#fff",
+          "banner_des": "Phasellus lorem malesuada ligula pulvinar de cosmopolis",
+          "font_size_banner_des": "12px",
+          "color_banner_des": "#fff",
+          "banner_button": "Shop Now",
+          "link": "",
+          "bg_banner_button": "#fff",
+          "border_banner_button": "#fff",
+          "color_banner_button": "#232323",
+          "featured_products_title": "Latest Campaign",
+          "featured_products_des": "",
+          "title_style": "style_1",
+          "show_slider_featured_collection": "emerald",
+          "slider_featured_limit_all": 10,
+          "collection_results_per_row1": "3",
+          "margin_bottom_mb": 40,
+          "margin_bottom_tab": 40,
+          "margin_bottom": 0
+        }
+      }
+    },
+    "content_for_index": [
+      "1540952363851",
+      "1561115256956",
+      "1561008129844",
+      "1561111472861",
+      "1540984915288",
+      "1561118161313",
+      "1561448454830",
+      "1541402822593",
+      "1541414200176",
+      "1541566560488"
+    ]
+  },
+  "presets": {
+    "Default": {
+      "search_placeholder": "search",
+      "mailing_list_form_action": "\/\/halothemes.us3.list-manage.com\/subscribe\/post?u=0bf85dc81d846feb53a235178&amp;id=89ea28643a",
+      "body_font_size": "12",
+      "body_color": "#3c3c3c",
+      "display_breadcrumb": true,
+      "breadcrumb_color": "#999999",
+      "breadcrumb_text_transform": "capitalize",
+      "page_title_color": "#232323",
+      "page_title_text_align": "left",
+      "display_popup_newsletter": true,
+      "popup_newsletter_title": "Join Our Mailing List",
+      "display_popup_social": true,
+      "enable_wishlist": true,
+      "product_image_border": false,
+      "product_image_border_color": "#e6e6e6",
+      "use_color_swatch": true,
+      "display_size_chart": true,
+      "display_product_reviews": true,
+      "enable_quick_view": true,
+      "display_quickview_availability": true,
+      "display_quickview_product_type": true,
+      "display_quickview_vendor": true,
+      "display_quickview_subtotal": true,
+      "show_shipping_calculator": true,
+      "shipping_calculator_heading": "Get shipping estimates",
+      "shipping_calculator_default_country": "United States",
+      "shipping_calculator_submit_button_label": "Calculate Shipping",
+      "shipping_calculator_submit_button_label_disabled": "Calculating...",
+      "enable_multiple_currencies": true,
+      "currency_1_unit": "USD",
+      "currency_2_unit": "EUR",
+      "currency_3_unit": "GBP",
+      "currency_4_unit": "CHF",
+      "checkout_use_header_image": true,
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_logo": "checkout_logo.png",
+      "checkout_headline": "",
+      "checkout_accent_color": "#2d2d2d",
+      "checkout_button_color": "#000000",
+      "checkout_call_to_action_color": "#000000",
+      "customer_layout": "theme",
+      "link_color": "#0688e2"
+    }
+  }
+}
